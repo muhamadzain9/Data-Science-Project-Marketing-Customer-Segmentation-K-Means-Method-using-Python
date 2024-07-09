@@ -1,0 +1,2001 @@
+ID;Jenis Kelamin;Marital status;Usia;Pendidikan;Pendapatan;Pekerjaan;Settlement size
+100000001;Pria;Belum Menikah;67;S1;124670;Amatir;Big
+100000002;Wanita;Menikah;22;SMA;150773;Amatir;Big
+100000003;Pria;Belum Menikah;49;SMA;89210;Tidak Bekerja;Small
+100000004;Pria;Belum Menikah;45;SMA;171565;Amatir;Mid
+100000005;Pria;Belum Menikah;53;SMA;149031;Amatir;Mid
+100000006;Pria;Belum Menikah;35;SMA;144848;Tidak Bekerja;Small
+100000007;Pria;Belum Menikah;53;SMA;156495;Amatir;Mid
+100000008;Pria;Belum Menikah;35;SMA;193621;Proffesional;Mid
+100000009;Pria;Menikah;61;S1;151591;Tidak Bekerja;Small
+100000010;Pria;Menikah;28;SMA;174646;Proffesional;Small
+100000011;Wanita;Menikah;25;SMA;108469;Amatir;Small
+100000012;Wanita;Menikah;24;SMA;127596;Amatir;Small
+100000013;Wanita;Menikah;22;SMA;108687;Amatir;Big
+100000014;Pria;Belum Menikah;60;S1;89374;Tidak Bekerja;Small
+100000015;Wanita;Menikah;28;SMA;102899;Amatir;Mid
+100000016;Wanita;Menikah;32;SMA;88428;Tidak Bekerja;Small
+100000017;Pria;Belum Menikah;53;SMA;125550;Amatir;Small
+100000018;Pria;Belum Menikah;25;Unknown;157434;Amatir;Big
+100000019;Wanita;Menikah;44;S1;261952;Proffesional;Big
+100000020;Pria;Belum Menikah;31;Unknown;144657;Amatir;Mid
+100000021;Pria;Belum Menikah;48;SMA;118777;Amatir;Mid
+100000022;Pria;Belum Menikah;44;SMA;147511;Amatir;Mid
+100000023;Pria;Belum Menikah;48;SMA;89804;Tidak Bekerja;Small
+100000024;Pria;Belum Menikah;44;SMA;134918;Amatir;Big
+100000025;Pria;Menikah;26;SMA;103667;Amatir;Big
+100000026;Pria;Belum Menikah;36;SMA;71909;Tidak Bekerja;Small
+100000027;Pria;Menikah;39;SMA;68264;Tidak Bekerja;Small
+100000028;Wanita;Menikah;42;S1;163025;Amatir;Mid
+100000029;Pria;Belum Menikah;34;SMA;119307;Amatir;Mid
+100000030;Pria;Belum Menikah;63;S1;175882;Amatir;Small
+100000031;Pria;Menikah;36;SMA;159646;Amatir;Mid
+100000032;Pria;Belum Menikah;27;Unknown;120131;Amatir;Mid
+100000033;Pria;Belum Menikah;30;Unknown;162745;Amatir;Big
+100000034;Pria;Belum Menikah;57;S1;87605;Tidak Bekerja;Small
+100000035;Wanita;Menikah;33;SMA;155569;Proffesional;Mid
+100000036;Pria;Belum Menikah;25;Unknown;104505;Tidak Bekerja;Small
+100000037;Pria;Belum Menikah;31;Unknown;143385;Amatir;Big
+100000038;Pria;Belum Menikah;37;SMA;127676;Amatir;Mid
+100000039;Pria;Belum Menikah;37;SMA;119276;Amatir;Mid
+100000040;Pria;Belum Menikah;24;Unknown;92542;Amatir;Mid
+100000041;Pria;Belum Menikah;30;Unknown;163329;Proffesional;Mid
+100000042;Pria;Menikah;26;SMA;130921;Amatir;Small
+100000043;Pria;Belum Menikah;44;SMA;133658;Tidak Bekerja;Small
+100000044;Pria;Menikah;24;SMA;155104;Amatir;Mid
+100000045;Wanita;Menikah;58;S1;142335;Tidak Bekerja;Mid
+100000046;Wanita;Menikah;35;SMA;138387;Proffesional;Mid
+100000047;Pria;Belum Menikah;39;SMA;140182;Amatir;Small
+100000048;Wanita;Menikah;23;SMA;65421;Tidak Bekerja;Small
+100000049;Pria;Belum Menikah;39;SMA;130500;Tidak Bekerja;Small
+100000050;Wanita;Menikah;28;SMA;122831;Amatir;Small
+100000051;Pria;Belum Menikah;29;Unknown;84531;Tidak Bekerja;Small
+100000052;Pria;Belum Menikah;30;Unknown;180196;Proffesional;Big
+100000053;Pria;Belum Menikah;25;Unknown;92058;Amatir;Big
+100000054;Pria;Belum Menikah;31;Unknown;117158;Amatir;Small
+100000055;Pria;Belum Menikah;57;S1;135830;Amatir;Mid
+100000056;Pria;Belum Menikah;26;Unknown;58258;Tidak Bekerja;Small
+100000057;Pria;Belum Menikah;52;SMA;202575;Proffesional;Big
+100000058;Wanita;Menikah;31;SMA;183657;Amatir;Mid
+100000059;Wanita;Menikah;23;SMA;152267;Proffesional;Mid
+100000060;Wanita;Menikah;23;SMA;115240;Tidak Bekerja;Small
+100000061;Pria;Menikah;27;SMA;106955;Amatir;Big
+100000062;Pria;Belum Menikah;50;SMA;123641;Amatir;Mid
+100000063;Pria;Belum Menikah;61;S1;166410;Proffesional;Mid
+100000064;Pria;Belum Menikah;25;Unknown;227385;Amatir;Big
+100000065;Wanita;Menikah;26;SMA;118372;Amatir;Mid
+100000066;Pria;Belum Menikah;48;SMA;148115;Amatir;Mid
+100000067;Wanita;Menikah;29;SMA;111069;Amatir;Small
+100000068;Pria;Menikah;22;SMA;139780;Amatir;Small
+100000069;Pria;Belum Menikah;37;SMA;106978;Amatir;Big
+100000070;Wanita;Menikah;25;SMA;110019;Amatir;Big
+100000071;Wanita;Menikah;30;SMA;169102;Amatir;Mid
+100000072;Pria;Belum Menikah;46;SMA;73703;Tidak Bekerja;Small
+100000073;Pria;Belum Menikah;51;SMA;141858;Proffesional;Big
+100000074;Wanita;Menikah;41;S1;135959;Tidak Bekerja;Small
+100000075;Pria;Belum Menikah;40;SMA;140888;Proffesional;Big
+100000076;Pria;Belum Menikah;66;S1;157299;Proffesional;Big
+100000077;Pria;Belum Menikah;34;SMA;125187;Amatir;Mid
+100000078;Pria;Belum Menikah;51;SMA;155486;Amatir;Big
+100000079;Pria;Belum Menikah;39;SMA;151697;Tidak Bekerja;Small
+100000080;Pria;Menikah;22;SMA;126400;Amatir;Mid
+100000081;Wanita;Menikah;44;S1;159246;Amatir;Big
+100000082;Pria;Belum Menikah;47;SMA;136138;Amatir;Mid
+100000083;Wanita;Menikah;24;SMA;84792;Tidak Bekerja;Small
+100000084;Wanita;Menikah;58;S1;100210;Tidak Bekerja;Small
+100000085;Pria;Belum Menikah;52;SMA;93706;Tidak Bekerja;Small
+100000086;Wanita;Menikah;29;SMA;133783;Proffesional;Mid
+100000087;Wanita;Menikah;27;SMA;110064;Amatir;Big
+100000088;Pria;Belum Menikah;47;SMA;241068;Amatir;Mid
+100000089;Pria;Belum Menikah;30;Unknown;149022;Proffesional;Big
+100000090;Pria;Belum Menikah;28;Unknown;92973;Amatir;Big
+100000091;Pria;Belum Menikah;56;SMA;110605;Amatir;Mid
+100000092;Pria;Belum Menikah;54;SMA;116604;Amatir;Mid
+100000093;Wanita;Menikah;33;SMA;71070;Tidak Bekerja;Small
+100000094;Pria;Belum Menikah;20;Unknown;128678;Amatir;Mid
+100000095;Pria;Belum Menikah;54;SMA;165230;Amatir;Big
+100000096;Pria;Belum Menikah;58;S1;268340;Amatir;Mid
+100000097;Wanita;Menikah;61;S1;135070;Amatir;Mid
+100000098;Pria;Belum Menikah;34;SMA;134794;Amatir;Big
+100000099;Pria;Belum Menikah;36;SMA;120153;Amatir;Mid
+100000100;Pria;Belum Menikah;36;SMA;195465;Proffesional;Big
+100000101;Pria;Menikah;41;SMA;93372;Tidak Bekerja;Small
+100000102;Pria;Belum Menikah;24;Unknown;110446;Amatir;Small
+100000103;Wanita;Menikah;24;SMA;95186;Amatir;Mid
+100000104;Pria;Belum Menikah;35;SMA;115343;Amatir;Mid
+100000105;Pria;Menikah;26;SMA;107276;Amatir;Mid
+100000106;Pria;Belum Menikah;39;SMA;244716;Proffesional;Big
+100000107;Pria;Belum Menikah;39;SMA;183108;Proffesional;Big
+100000108;Pria;Belum Menikah;32;Unknown;152876;Amatir;Big
+100000109;Wanita;Menikah;30;SMA;165147;Amatir;Small
+100000110;Pria;Menikah;35;SMA;140520;Amatir;Small
+100000111;Pria;Menikah;31;SMA;124203;Amatir;Mid
+100000112;Wanita;Menikah;23;SMA;107205;Amatir;Mid
+100000113;Pria;Belum Menikah;28;Unknown;121432;Tidak Bekerja;Big
+100000114;Wanita;Menikah;25;SMA;162445;Amatir;Small
+100000115;Pria;Menikah;35;SMA;134112;Amatir;Mid
+100000116;Pria;Belum Menikah;47;SMA;131842;Amatir;Mid
+100000117;Wanita;Menikah;30;SMA;189896;Proffesional;Small
+100000118;Wanita;Menikah;27;SMA;109099;Amatir;Big
+100000119;Wanita;Menikah;23;SMA;153539;Amatir;Mid
+100000120;Pria;Menikah;36;SMA;180495;Proffesional;Mid
+100000121;Wanita;Menikah;25;SMA;104653;Amatir;Big
+100000122;Wanita;Menikah;41;S1;166933;Proffesional;Big
+100000123;Pria;Belum Menikah;24;Unknown;66118;Tidak Bekerja;Small
+100000124;Pria;Belum Menikah;63;S1;135754;Amatir;Small
+100000125;Wanita;Menikah;27;SMA;116103;Amatir;Big
+100000126;Pria;Belum Menikah;30;Unknown;104293;Amatir;Mid
+100000127;Pria;Menikah;40;SMA;71702;Tidak Bekerja;Small
+100000128;Pria;Belum Menikah;30;Unknown;99066;Amatir;Big
+100000129;Pria;Belum Menikah;34;SMA;143979;Proffesional;Big
+100000130;Wanita;Menikah;29;SMA;123818;Amatir;Small
+100000131;Wanita;Menikah;24;SMA;176714;Amatir;Big
+100000132;Pria;Belum Menikah;29;Unknown;149249;Amatir;Big
+100000133;Pria;Belum Menikah;27;Unknown;77535;Tidak Bekerja;Small
+100000134;Pria;Belum Menikah;47;SMA;116540;Amatir;Mid
+100000135;Wanita;Menikah;21;SMA;194728;Amatir;Small
+100000136;Wanita;Menikah;38;SMA;109311;Amatir;Big
+100000137;Pria;Belum Menikah;27;Unknown;204723;Amatir;Big
+100000138;Pria;Belum Menikah;66;S1;126003;Tidak Bekerja;Small
+100000139;Pria;Belum Menikah;35;SMA;123109;Amatir;Mid
+100000140;Wanita;Menikah;44;S1;108251;Tidak Bekerja;Small
+100000141;Pria;Menikah;27;SMA;89908;Tidak Bekerja;Small
+100000142;Wanita;Menikah;30;SMA;176057;Proffesional;Mid
+100000143;Pria;Belum Menikah;27;Unknown;144332;Proffesional;Big
+100000144;Pria;Belum Menikah;22;Unknown;101185;Amatir;Mid
+100000145;Wanita;Menikah;23;SMA;107406;Amatir;Big
+100000146;Pria;Belum Menikah;30;Unknown;140665;Amatir;Mid
+100000147;Wanita;Menikah;39;S1;106461;Amatir;Small
+100000148;Wanita;Menikah;51;S1;127825;Amatir;Small
+100000149;Pria;Belum Menikah;28;Unknown;133898;Amatir;Mid
+100000150;Pria;Belum Menikah;46;SMA;152383;Amatir;Big
+100000151;Pria;Belum Menikah;42;SMA;119926;Amatir;Small
+100000152;Pria;Belum Menikah;38;SMA;108784;Amatir;Big
+100000153;Pria;Belum Menikah;24;Unknown;153286;Amatir;Mid
+100000154;Wanita;Menikah;29;SMA;214204;Amatir;Big
+100000155;Pria;Belum Menikah;36;SMA;208101;Proffesional;Big
+100000156;Wanita;Menikah;20;SMA;95355;Amatir;Mid
+100000157;Pria;Belum Menikah;48;SMA;124156;Amatir;Mid
+100000158;Pria;Menikah;45;S1;72215;Tidak Bekerja;Small
+100000159;Pria;Belum Menikah;38;SMA;146529;Amatir;Big
+100000160;Pria;Belum Menikah;34;SMA;75343;Tidak Bekerja;Small
+100000161;Pria;Belum Menikah;36;SMA;129789;Amatir;Mid
+100000162;Wanita;Menikah;30;SMA;101153;Amatir;Mid
+100000163;Pria;Belum Menikah;36;SMA;127833;Amatir;Big
+100000164;Pria;Belum Menikah;70;S1;224998;Proffesional;Big
+100000165;Pria;Belum Menikah;36;SMA;124445;Amatir;Big
+100000166;Pria;Belum Menikah;32;Unknown;141116;Amatir;Mid
+100000167;Wanita;Menikah;33;SMA;104276;Amatir;Big
+100000168;Wanita;Menikah;20;SMA;147687;Amatir;Big
+100000169;Wanita;Menikah;25;SMA;125168;Amatir;Mid
+100000170;Pria;Menikah;31;SMA;115369;Amatir;Big
+100000171;Pria;Belum Menikah;33;SMA;95445;Amatir;Small
+100000172;Wanita;Menikah;26;SMA;95159;Amatir;Mid
+100000173;Wanita;Menikah;34;SMA;153031;Proffesional;Big
+100000174;Pria;Belum Menikah;33;SMA;108899;Amatir;Small
+100000175;Pria;Belum Menikah;26;Unknown;113515;Amatir;Mid
+100000176;Wanita;Menikah;53;S1;211229;Proffesional;Small
+100000177;Pria;Menikah;42;S1;121307;Amatir;Small
+100000178;Pria;Belum Menikah;52;SMA;131727;Amatir;Big
+100000179;Pria;Belum Menikah;31;Unknown;133574;Proffesional;Mid
+100000180;Pria;Belum Menikah;65;S1;117334;Amatir;Small
+100000181;Pria;Menikah;28;SMA;177291;Amatir;Big
+100000182;Pria;Menikah;30;SMA;168763;Proffesional;Mid
+100000183;Pria;Belum Menikah;40;SMA;77720;Tidak Bekerja;Small
+100000184;Pria;Belum Menikah;50;SMA;176645;Amatir;Big
+100000185;Pria;Belum Menikah;36;SMA;106205;Amatir;Mid
+100000186;Pria;Belum Menikah;31;Unknown;97785;Amatir;Mid
+100000187;Wanita;Menikah;74;S2;214364;Proffesional;Mid
+100000188;Pria;Belum Menikah;68;S1;74525;Tidak Bekerja;Small
+100000189;Pria;Menikah;20;SMA;98988;Amatir;Small
+100000190;Wanita;Menikah;33;SMA;133561;Amatir;Mid
+100000191;Pria;Belum Menikah;54;SMA;217651;Proffesional;Big
+100000192;Pria;Belum Menikah;34;SMA;116525;Tidak Bekerja;Small
+100000193;Pria;Belum Menikah;36;SMA;135302;Amatir;Big
+100000194;Pria;Menikah;29;SMA;106434;Amatir;Mid
+100000195;Pria;Belum Menikah;21;Unknown;128350;Amatir;Big
+100000196;Wanita;Menikah;34;SMA;147626;Proffesional;Big
+100000197;Wanita;Menikah;28;SMA;102697;Amatir;Small
+100000198;Wanita;Menikah;27;SMA;120262;Amatir;Small
+100000199;Pria;Belum Menikah;36;SMA;124214;Amatir;Big
+100000200;Pria;Menikah;40;SMA;175223;Proffesional;Mid
+100000201;Pria;Belum Menikah;52;SMA;137467;Amatir;Small
+100000202;Pria;Menikah;27;SMA;65815;Tidak Bekerja;Small
+100000203;Pria;Belum Menikah;26;Unknown;129864;Amatir;Mid
+100000204;Pria;Menikah;21;SMA;88475;Amatir;Mid
+100000205;Pria;Belum Menikah;38;SMA;74666;Tidak Bekerja;Small
+100000206;Pria;Belum Menikah;38;SMA;222294;Proffesional;Big
+100000207;Pria;Belum Menikah;43;SMA;112878;Amatir;Small
+100000208;Pria;Belum Menikah;26;Unknown;103411;Amatir;Big
+100000209;Pria;Menikah;21;SMA;112868;Tidak Bekerja;Small
+100000210;Pria;Belum Menikah;55;SMA;157940;Amatir;Big
+100000211;Pria;Belum Menikah;33;SMA;115835;Amatir;Big
+100000212;Wanita;Menikah;45;S1;109807;Tidak Bekerja;Small
+100000213;Pria;Belum Menikah;50;SMA;150699;Amatir;Mid
+100000214;Pria;Belum Menikah;66;S1;178967;Proffesional;Small
+100000215;Pria;Belum Menikah;51;SMA;132767;Amatir;Small
+100000216;Wanita;Menikah;39;S1;86152;Tidak Bekerja;Small
+100000217;Pria;Belum Menikah;31;Unknown;114528;Amatir;Big
+100000218;Pria;Belum Menikah;23;Unknown;133912;Amatir;Mid
+100000219;Pria;Menikah;24;SMA;81210;Tidak Bekerja;Small
+100000220;Wanita;Menikah;64;S2;131242;Amatir;Small
+100000221;Pria;Menikah;26;SMA;68804;Tidak Bekerja;Small
+100000222;Wanita;Menikah;23;SMA;96961;Amatir;Mid
+100000223;Pria;Belum Menikah;30;Unknown;90719;Amatir;Big
+100000224;Pria;Belum Menikah;32;Unknown;114116;Amatir;Mid
+100000225;Pria;Belum Menikah;30;Unknown;128639;Amatir;Mid
+100000226;Pria;Belum Menikah;27;Unknown;106623;Amatir;Mid
+100000227;Pria;Belum Menikah;27;Unknown;236264;Amatir;Mid
+100000228;Pria;Belum Menikah;53;SMA;207783;Proffesional;Mid
+100000229;Pria;Belum Menikah;22;Unknown;91739;Amatir;Mid
+100000230;Pria;Belum Menikah;22;Unknown;107780;Amatir;Big
+100000231;Pria;Belum Menikah;26;Unknown;139157;Amatir;Big
+100000232;Pria;Belum Menikah;51;SMA;121751;Tidak Bekerja;Small
+100000233;Pria;Belum Menikah;35;SMA;121974;Amatir;Small
+100000234;Pria;Menikah;25;SMA;70320;Tidak Bekerja;Small
+100000235;Pria;Belum Menikah;42;SMA;78327;Tidak Bekerja;Small
+100000236;Pria;Belum Menikah;30;Unknown;131433;Proffesional;Small
+100000237;Pria;Belum Menikah;23;Unknown;167076;Tidak Bekerja;Big
+100000238;Pria;Menikah;61;S1;130788;Tidak Bekerja;Small
+100000239;Wanita;Menikah;35;SMA;107408;Amatir;Mid
+100000240;Pria;Belum Menikah;39;SMA;115323;Amatir;Mid
+100000241;Wanita;Menikah;29;SMA;99012;Amatir;Small
+100000242;Pria;Belum Menikah;51;SMA;115996;Amatir;Mid
+100000243;Pria;Belum Menikah;24;Unknown;123353;Amatir;Mid
+100000244;Wanita;Menikah;27;SMA;100008;Amatir;Small
+100000245;Wanita;Menikah;35;SMA;125105;Tidak Bekerja;Small
+100000246;Pria;Belum Menikah;25;Unknown;92020;Amatir;Big
+100000247;Pria;Belum Menikah;52;SMA;108365;Amatir;Big
+100000248;Pria;Belum Menikah;35;SMA;112979;Amatir;Small
+100000249;Pria;Belum Menikah;26;Unknown;117221;Amatir;Mid
+100000250;Wanita;Menikah;22;SMA;88800;Amatir;Big
+100000251;Wanita;Menikah;39;S1;115099;Tidak Bekerja;Small
+100000252;Wanita;Menikah;46;S1;113399;Tidak Bekerja;Small
+100000253;Wanita;Menikah;24;SMA;115879;Amatir;Mid
+100000254;Pria;Belum Menikah;35;SMA;141270;Amatir;Big
+100000255;Pria;Belum Menikah;24;Unknown;107633;Amatir;Mid
+100000256;Pria;Belum Menikah;27;Unknown;131751;Tidak Bekerja;Small
+100000257;Pria;Belum Menikah;35;SMA;83687;Tidak Bekerja;Small
+100000258;Pria;Menikah;29;SMA;106828;Amatir;Big
+100000259;Wanita;Menikah;23;SMA;135537;Amatir;Mid
+100000260;Wanita;Menikah;57;S1;107142;Tidak Bekerja;Small
+100000261;Pria;Belum Menikah;27;Unknown;97446;Amatir;Mid
+100000262;Wanita;Menikah;55;S1;126357;Amatir;Big
+100000263;Pria;Belum Menikah;36;SMA;169617;Proffesional;Mid
+100000264;Wanita;Menikah;57;S1;108945;Tidak Bekerja;Small
+100000265;Pria;Belum Menikah;32;Unknown;67345;Tidak Bekerja;Small
+100000266;Pria;Belum Menikah;37;SMA;106215;Amatir;Small
+100000267;Pria;Belum Menikah;36;SMA;149237;Amatir;Small
+100000268;Wanita;Menikah;38;SMA;112124;Amatir;Small
+100000269;Pria;Menikah;45;S1;215150;Proffesional;Big
+100000270;Pria;Belum Menikah;25;Unknown;89534;Amatir;Mid
+100000271;Pria;Belum Menikah;32;Unknown;111082;Amatir;Big
+100000272;Wanita;Menikah;37;SMA;137069;Amatir;Mid
+100000273;Pria;Belum Menikah;36;SMA;244541;Proffesional;Big
+100000274;Pria;Belum Menikah;28;Unknown;120712;Amatir;Mid
+100000275;Pria;Menikah;34;SMA;175367;Tidak Bekerja;Small
+100000276;Pria;Belum Menikah;32;Unknown;111418;Amatir;Mid
+100000277;Wanita;Menikah;26;SMA;110913;Amatir;Small
+100000278;Pria;Menikah;49;S1;84267;Tidak Bekerja;Small
+100000279;Wanita;Menikah;32;SMA;136886;Amatir;Big
+100000280;Pria;Belum Menikah;29;Unknown;144884;Proffesional;Big
+100000281;Pria;Belum Menikah;23;Unknown;151180;Amatir;Mid
+100000282;Pria;Belum Menikah;50;SMA;114997;Amatir;Mid
+100000283;Pria;Belum Menikah;49;SMA;100961;Tidak Bekerja;Small
+100000284;Pria;Belum Menikah;63;S1;124849;Amatir;Big
+100000285;Pria;Menikah;37;SMA;152308;Amatir;Big
+100000286;Wanita;Menikah;35;SMA;167945;Tidak Bekerja;Mid
+100000287;Pria;Belum Menikah;26;Unknown;126706;Amatir;Big
+100000288;Pria;Belum Menikah;31;Unknown;210017;Proffesional;Big
+100000289;Wanita;Menikah;49;S1;125665;Amatir;Mid
+100000290;Pria;Menikah;48;S1;111184;Amatir;Mid
+100000291;Pria;Menikah;26;SMA;94134;Amatir;Small
+100000292;Pria;Menikah;28;SMA;214620;Proffesional;Mid
+100000293;Wanita;Menikah;44;S1;193816;Proffesional;Mid
+100000294;Pria;Belum Menikah;56;SMA;168714;Amatir;Mid
+100000295;Pria;Menikah;46;S1;202997;Proffesional;Mid
+100000296;Wanita;Menikah;26;SMA;192451;Amatir;Big
+100000297;Wanita;Menikah;20;SMA;127928;Amatir;Big
+100000298;Pria;Belum Menikah;45;SMA;78253;Tidak Bekerja;Small
+100000299;Pria;Belum Menikah;43;SMA;118446;Amatir;Mid
+100000300;Pria;Belum Menikah;32;Unknown;161379;Amatir;Big
+100000301;Wanita;Menikah;54;S1;56622;Tidak Bekerja;Small
+100000302;Wanita;Menikah;42;S1;146117;Amatir;Mid
+100000303;Pria;Belum Menikah;37;SMA;90418;Tidak Bekerja;Small
+100000304;Pria;Belum Menikah;49;SMA;109053;Amatir;Small
+100000305;Pria;Belum Menikah;44;SMA;219319;Amatir;Small
+100000306;Pria;Menikah;33;SMA;144701;Amatir;Mid
+100000307;Wanita;Menikah;24;SMA;102425;Tidak Bekerja;Small
+100000308;Pria;Menikah;33;SMA;79867;Tidak Bekerja;Small
+100000309;Wanita;Menikah;24;SMA;107114;Amatir;Big
+100000310;Pria;Menikah;22;SMA;62263;Tidak Bekerja;Small
+100000311;Pria;Belum Menikah;40;SMA;92567;Tidak Bekerja;Small
+100000312;Pria;Belum Menikah;25;Unknown;146349;Amatir;Small
+100000313;Wanita;Menikah;26;SMA;141825;Amatir;Mid
+100000314;Pria;Menikah;25;SMA;68582;Tidak Bekerja;Small
+100000315;Pria;Belum Menikah;29;Unknown;85476;Tidak Bekerja;Small
+100000316;Pria;Belum Menikah;31;Unknown;111091;Amatir;Big
+100000317;Pria;Belum Menikah;38;SMA;67110;Tidak Bekerja;Small
+100000318;Wanita;Menikah;48;S1;126154;Tidak Bekerja;Small
+100000319;Pria;Belum Menikah;32;Unknown;92257;Amatir;Big
+100000320;Wanita;Menikah;27;SMA;93605;Tidak Bekerja;Small
+100000321;Pria;Menikah;28;SMA;165190;Proffesional;Small
+100000322;Pria;Menikah;32;SMA;107195;Amatir;Small
+100000323;Pria;Belum Menikah;34;SMA;145059;Proffesional;Small
+100000324;Pria;Belum Menikah;28;Unknown;148363;Amatir;Small
+100000325;Wanita;Menikah;36;SMA;105681;Amatir;Big
+100000326;Pria;Belum Menikah;39;SMA;93732;Tidak Bekerja;Small
+100000327;Pria;Belum Menikah;49;SMA;154778;Amatir;Big
+100000328;Wanita;Menikah;34;SMA;149356;Amatir;Big
+100000329;Pria;Belum Menikah;31;Unknown;145670;Amatir;Mid
+100000330;Pria;Belum Menikah;28;Unknown;101589;Amatir;Big
+100000331;Pria;Belum Menikah;75;S1;213333;Proffesional;Mid
+100000332;Wanita;Menikah;30;SMA;122420;Amatir;Small
+100000333;Wanita;Menikah;24;SMA;209856;Proffesional;Mid
+100000334;Wanita;Menikah;24;SMA;181003;Tidak Bekerja;Small
+100000335;Pria;Belum Menikah;23;Unknown;117804;Amatir;Mid
+100000336;Pria;Menikah;44;S1;160650;Proffesional;Mid
+100000337;Wanita;Menikah;23;SMA;84611;Tidak Bekerja;Small
+100000338;Wanita;Menikah;24;SMA;98479;Amatir;Big
+100000339;Pria;Belum Menikah;28;Unknown;122359;Amatir;Big
+100000340;Pria;Menikah;31;SMA;81394;Tidak Bekerja;Small
+100000341;Wanita;Menikah;24;SMA;150372;Amatir;Mid
+100000342;Wanita;Menikah;26;SMA;92385;Tidak Bekerja;Small
+100000343;Pria;Menikah;25;SMA;149851;Amatir;Big
+100000344;Pria;Belum Menikah;33;SMA;167939;Proffesional;Mid
+100000345;Pria;Belum Menikah;37;SMA;115426;Tidak Bekerja;Small
+100000346;Wanita;Menikah;43;S1;85402;Tidak Bekerja;Small
+100000347;Pria;Belum Menikah;23;Unknown;95815;Amatir;Big
+100000348;Wanita;Menikah;23;SMA;97518;Tidak Bekerja;Small
+100000349;Pria;Belum Menikah;34;SMA;87355;Tidak Bekerja;Small
+100000350;Pria;Belum Menikah;32;Unknown;145933;Amatir;Mid
+100000351;Wanita;Menikah;23;SMA;97307;Amatir;Small
+100000352;Wanita;Menikah;29;SMA;108434;Amatir;Big
+100000353;Pria;Belum Menikah;38;SMA;151312;Proffesional;Mid
+100000354;Pria;Belum Menikah;28;Unknown;141847;Amatir;Mid
+100000355;Pria;Belum Menikah;46;SMA;130675;Amatir;Big
+100000356;Pria;Belum Menikah;23;Unknown;69309;Tidak Bekerja;Small
+100000357;Pria;Belum Menikah;49;SMA;121466;Amatir;Big
+100000358;Pria;Belum Menikah;26;Unknown;153586;Proffesional;Big
+100000359;Pria;Menikah;28;SMA;92849;Amatir;Small
+100000360;Wanita;Menikah;23;SMA;108539;Amatir;Big
+100000361;Pria;Belum Menikah;61;S1;129556;Amatir;Big
+100000362;Pria;Belum Menikah;37;SMA;170146;Proffesional;Small
+100000363;Wanita;Menikah;36;SMA;135383;Amatir;Mid
+100000364;Pria;Menikah;21;SMA;96769;Amatir;Big
+100000365;Pria;Belum Menikah;25;Unknown;43684;Tidak Bekerja;Small
+100000366;Pria;Belum Menikah;36;SMA;103521;Amatir;Small
+100000367;Pria;Belum Menikah;27;Unknown;118499;Amatir;Mid
+100000368;Wanita;Menikah;22;SMA;119684;Amatir;Big
+100000369;Pria;Belum Menikah;42;SMA;126586;Amatir;Mid
+100000370;Wanita;Menikah;40;S1;136812;Amatir;Big
+100000371;Pria;Belum Menikah;36;SMA;118277;Amatir;Mid
+100000372;Pria;Belum Menikah;33;SMA;144597;Amatir;Mid
+100000373;Wanita;Menikah;23;SMA;106043;Amatir;Small
+100000374;Pria;Belum Menikah;63;S1;272314;Proffesional;Big
+100000375;Wanita;Menikah;60;S1;309364;Proffesional;Big
+100000376;Wanita;Menikah;37;SMA;170386;Amatir;Mid
+100000377;Pria;Menikah;34;SMA;112458;Amatir;Small
+100000378;Pria;Belum Menikah;36;SMA;96840;Amatir;Mid
+100000379;Pria;Belum Menikah;57;S1;281923;Proffesional;Mid
+100000380;Wanita;Menikah;52;S1;95551;Tidak Bekerja;Small
+100000381;Pria;Belum Menikah;39;SMA;112347;Amatir;Big
+100000382;Wanita;Menikah;38;SMA;260977;Proffesional;Big
+100000383;Wanita;Menikah;25;SMA;99354;Amatir;Small
+100000384;Pria;Belum Menikah;26;Unknown;111509;Amatir;Big
+100000385;Pria;Belum Menikah;26;Unknown;105252;Tidak Bekerja;Small
+100000386;Wanita;Menikah;25;SMA;108522;Amatir;Small
+100000387;Wanita;Menikah;21;SMA;94655;Amatir;Mid
+100000388;Pria;Belum Menikah;40;SMA;201699;Proffesional;Mid
+100000389;Pria;Belum Menikah;27;Unknown;139868;Amatir;Big
+100000390;Wanita;Menikah;27;SMA;102543;Amatir;Mid
+100000391;Pria;Menikah;30;SMA;134467;Proffesional;Big
+100000392;Wanita;Menikah;19;SMA;111187;Tidak Bekerja;Small
+100000393;Pria;Belum Menikah;39;SMA;152302;Proffesional;Mid
+100000394;Wanita;Menikah;31;SMA;110610;Amatir;Big
+100000395;Pria;Belum Menikah;31;Unknown;137827;Proffesional;Big
+100000396;Pria;Belum Menikah;32;Unknown;220923;Amatir;Big
+100000397;Wanita;Menikah;55;S1;165717;Proffesional;Big
+100000398;Pria;Menikah;46;S1;122299;Amatir;Small
+100000399;Pria;Menikah;46;S1;120499;Amatir;Small
+100000400;Wanita;Menikah;43;S1;126449;Tidak Bekerja;Small
+100000401;Pria;Menikah;39;SMA;108315;Amatir;Big
+100000402;Pria;Menikah;28;SMA;112515;Amatir;Mid
+100000403;Pria;Belum Menikah;27;Unknown;164559;Amatir;Mid
+100000404;Pria;Belum Menikah;27;Unknown;59238;Tidak Bekerja;Small
+100000405;Pria;Belum Menikah;43;SMA;131133;Amatir;Small
+100000406;Pria;Menikah;22;SMA;109188;Amatir;Small
+100000407;Pria;Belum Menikah;43;SMA;115393;Amatir;Mid
+100000408;Pria;Menikah;27;SMA;94711;Amatir;Big
+100000409;Pria;Menikah;26;SMA;171860;Proffesional;Small
+100000410;Pria;Menikah;28;SMA;139414;Amatir;Big
+100000411;Wanita;Menikah;20;SMA;110931;Amatir;Mid
+100000412;Pria;Belum Menikah;35;SMA;187549;Proffesional;Big
+100000413;Pria;Belum Menikah;42;SMA;145508;Proffesional;Small
+100000414;Pria;Belum Menikah;40;SMA;104240;Tidak Bekerja;Small
+100000415;Wanita;Menikah;35;SMA;108272;Amatir;Mid
+100000416;Pria;Belum Menikah;35;SMA;144004;Amatir;Big
+100000417;Pria;Belum Menikah;33;SMA;81083;Tidak Bekerja;Small
+100000418;Wanita;Menikah;23;SMA;166763;Amatir;Mid
+100000419;Wanita;Menikah;31;SMA;175530;Proffesional;Mid
+100000420;Wanita;Menikah;33;SMA;112422;Amatir;Mid
+100000421;Wanita;Menikah;20;SMA;154134;Amatir;Big
+100000422;Pria;Belum Menikah;30;Unknown;112401;Amatir;Mid
+100000423;Pria;Belum Menikah;47;SMA;85690;Tidak Bekerja;Small
+100000424;Pria;Belum Menikah;34;SMA;145896;Proffesional;Big
+100000425;Wanita;Menikah;25;SMA;122552;Amatir;Big
+100000426;Pria;Menikah;21;SMA;115494;Amatir;Big
+100000427;Pria;Belum Menikah;29;Unknown;109467;Amatir;Small
+100000428;Pria;Belum Menikah;46;SMA;148226;Amatir;Big
+100000429;Pria;Belum Menikah;20;Unknown;88559;Amatir;Mid
+100000430;Wanita;Menikah;55;S1;62393;Tidak Bekerja;Small
+100000431;Pria;Belum Menikah;74;S1;122133;Tidak Bekerja;Small
+100000432;Pria;Belum Menikah;29;Unknown;230883;Proffesional;Big
+100000433;Pria;Belum Menikah;36;SMA;136689;Proffesional;Big
+100000434;Pria;Menikah;33;SMA;109145;Amatir;Small
+100000435;Pria;Belum Menikah;25;Unknown;100449;Amatir;Big
+100000436;Pria;Menikah;25;SMA;106253;Amatir;Small
+100000437;Pria;Menikah;23;SMA;84747;Tidak Bekerja;Small
+100000438;Wanita;Menikah;37;SMA;149465;Amatir;Mid
+100000439;Pria;Belum Menikah;65;S1;84435;Tidak Bekerja;Small
+100000440;Wanita;Menikah;26;SMA;51681;Tidak Bekerja;Small
+100000441;Pria;Belum Menikah;39;SMA;139198;Proffesional;Mid
+100000442;Wanita;Menikah;30;SMA;106577;Amatir;Mid
+100000443;Pria;Belum Menikah;29;Unknown;117372;Amatir;Big
+100000444;Pria;Belum Menikah;41;SMA;69609;Tidak Bekerja;Small
+100000445;Wanita;Menikah;30;SMA;178947;Proffesional;Big
+100000446;Wanita;Menikah;41;S1;81743;Tidak Bekerja;Small
+100000447;Wanita;Menikah;34;SMA;111900;Amatir;Mid
+100000448;Pria;Belum Menikah;35;SMA;121650;Amatir;Small
+100000449;Wanita;Menikah;55;S1;172639;Proffesional;Big
+100000450;Pria;Menikah;61;S1;175740;Amatir;Mid
+100000451;Pria;Belum Menikah;30;Unknown;220050;Proffesional;Big
+100000452;Wanita;Menikah;29;SMA;95200;Amatir;Mid
+100000453;Pria;Belum Menikah;34;SMA;113609;Amatir;Mid
+100000454;Pria;Belum Menikah;35;SMA;143552;Proffesional;Big
+100000455;Pria;Belum Menikah;31;Unknown;130973;Amatir;Big
+100000456;Wanita;Menikah;29;SMA;145946;Proffesional;Big
+100000457;Pria;Belum Menikah;36;SMA;126206;Amatir;Mid
+100000458;Pria;Belum Menikah;35;SMA;120426;Amatir;Small
+100000459;Wanita;Menikah;27;SMA;91925;Amatir;Big
+100000460;Pria;Belum Menikah;32;Unknown;129630;Amatir;Big
+100000461;Pria;Belum Menikah;37;SMA;124268;Amatir;Big
+100000462;Pria;Belum Menikah;36;SMA;105240;Amatir;Mid
+100000463;Wanita;Menikah;34;SMA;162180;Proffesional;Small
+100000464;Pria;Belum Menikah;38;SMA;106552;Amatir;Big
+100000465;Pria;Belum Menikah;34;SMA;105843;Amatir;Big
+100000466;Pria;Belum Menikah;63;S1;138327;Amatir;Mid
+100000467;Wanita;Menikah;29;SMA;76154;Tidak Bekerja;Small
+100000468;Pria;Belum Menikah;32;Unknown;155012;Amatir;Mid
+100000469;Wanita;Menikah;26;SMA;114369;Amatir;Mid
+100000470;Pria;Belum Menikah;35;SMA;102839;Tidak Bekerja;Small
+100000471;Pria;Menikah;22;SMA;132796;Amatir;Small
+100000472;Wanita;Menikah;23;SMA;89742;Amatir;Big
+100000473;Pria;Belum Menikah;28;Unknown;58615;Tidak Bekerja;Small
+100000474;Pria;Belum Menikah;36;SMA;130603;Proffesional;Big
+100000475;Pria;Menikah;33;SMA;110340;Amatir;Small
+100000476;Wanita;Menikah;26;SMA;117729;Amatir;Big
+100000477;Pria;Belum Menikah;24;Unknown;130808;Amatir;Small
+100000478;Pria;Belum Menikah;25;Unknown;147402;Amatir;Big
+100000479;Pria;Belum Menikah;39;SMA;93567;Tidak Bekerja;Small
+100000480;Pria;Belum Menikah;44;SMA;109289;Amatir;Mid
+100000481;Wanita;Menikah;23;SMA;98742;Tidak Bekerja;Small
+100000482;Pria;Belum Menikah;26;Unknown;101270;Amatir;Small
+100000483;Wanita;Menikah;57;S1;187835;Amatir;Mid
+100000484;Wanita;Menikah;30;SMA;140741;Amatir;Small
+100000485;Pria;Belum Menikah;44;SMA;133265;Amatir;Big
+100000486;Pria;Belum Menikah;47;SMA;148100;Proffesional;Big
+100000487;Pria;Belum Menikah;52;SMA;131021;Amatir;Big
+100000488;Wanita;Menikah;62;S1;152620;Amatir;Big
+100000489;Pria;Belum Menikah;35;SMA;85033;Tidak Bekerja;Small
+100000490;Pria;Belum Menikah;26;Unknown;114514;Amatir;Mid
+100000491;Pria;Belum Menikah;26;Unknown;99307;Amatir;Mid
+100000492;Wanita;Menikah;42;S1;219451;Proffesional;Big
+100000493;Wanita;Menikah;27;SMA;114007;Amatir;Small
+100000494;Pria;Belum Menikah;38;SMA;102846;Amatir;Small
+100000495;Pria;Belum Menikah;39;SMA;81483;Tidak Bekerja;Small
+100000496;Pria;Menikah;20;SMA;107779;Amatir;Big
+100000497;Pria;Belum Menikah;29;Unknown;222360;Proffesional;Big
+100000498;Pria;Belum Menikah;40;SMA;107125;Amatir;Small
+100000499;Pria;Menikah;32;SMA;80080;Tidak Bekerja;Small
+100000500;Pria;Menikah;28;SMA;129600;Amatir;Small
+100000501;Wanita;Menikah;27;SMA;118613;Amatir;Mid
+100000502;Pria;Belum Menikah;42;SMA;146237;Amatir;Mid
+100000503;Pria;Menikah;49;S1;144461;Amatir;Big
+100000504;Pria;Belum Menikah;38;SMA;124487;Amatir;Small
+100000505;Wanita;Menikah;24;SMA;97826;Amatir;Small
+100000506;Pria;Belum Menikah;27;Unknown;64105;Tidak Bekerja;Small
+100000507;Pria;Belum Menikah;36;SMA;156374;Amatir;Big
+100000508;Pria;Belum Menikah;34;SMA;205383;Proffesional;Big
+100000509;Pria;Menikah;28;SMA;98964;Amatir;Big
+100000510;Pria;Belum Menikah;45;SMA;221842;Proffesional;Big
+100000511;Pria;Belum Menikah;26;Unknown;88027;Amatir;Big
+100000512;Pria;Belum Menikah;32;Unknown;160513;Proffesional;Big
+100000513;Pria;Belum Menikah;26;Unknown;124536;Amatir;Big
+100000514;Pria;Menikah;20;SMA;93634;Amatir;Small
+100000515;Pria;Belum Menikah;54;SMA;124725;Amatir;Small
+100000516;Wanita;Menikah;37;SMA;102456;Amatir;Small
+100000517;Pria;Belum Menikah;40;SMA;74975;Tidak Bekerja;Small
+100000518;Wanita;Menikah;23;SMA;153861;Amatir;Mid
+100000519;Pria;Belum Menikah;43;SMA;119351;Amatir;Big
+100000520;Pria;Belum Menikah;36;SMA;95438;Amatir;Big
+100000521;Pria;Belum Menikah;44;SMA;147967;Amatir;Big
+100000522;Wanita;Menikah;24;SMA;116863;Amatir;Mid
+100000523;Pria;Belum Menikah;53;SMA;170622;Amatir;Mid
+100000524;Wanita;Menikah;23;SMA;132426;Amatir;Mid
+100000525;Wanita;Menikah;26;SMA;77519;Tidak Bekerja;Small
+100000526;Pria;Belum Menikah;30;Unknown;169405;Amatir;Big
+100000527;Wanita;Menikah;31;SMA;120030;Amatir;Small
+100000528;Pria;Belum Menikah;42;SMA;77933;Tidak Bekerja;Small
+100000529;Pria;Menikah;31;SMA;109892;Amatir;Mid
+100000530;Pria;Belum Menikah;41;SMA;69062;Tidak Bekerja;Small
+100000531;Pria;Belum Menikah;32;Unknown;116348;Amatir;Small
+100000532;Wanita;Menikah;28;SMA;137188;Amatir;Mid
+100000533;Pria;Menikah;41;SMA;110199;Amatir;Small
+100000534;Pria;Menikah;26;SMA;109890;Amatir;Mid
+100000535;Pria;Belum Menikah;25;Unknown;109751;Amatir;Big
+100000536;Pria;Menikah;33;SMA;129651;Amatir;Mid
+100000537;Wanita;Menikah;75;S2;170113;Proffesional;Mid
+100000538;Wanita;Menikah;37;SMA;140285;Amatir;Mid
+100000539;Pria;Belum Menikah;42;SMA;198029;Proffesional;Big
+100000540;Wanita;Menikah;45;S1;120262;Tidak Bekerja;Small
+100000541;Pria;Menikah;23;SMA;105137;Amatir;Mid
+100000542;Pria;Belum Menikah;60;S1;127371;Amatir;Small
+100000543;Pria;Belum Menikah;31;Unknown;145689;Amatir;Small
+100000544;Pria;Belum Menikah;34;SMA;102617;Tidak Bekerja;Mid
+100000545;Pria;Belum Menikah;61;S1;90709;Tidak Bekerja;Small
+100000546;Pria;Belum Menikah;43;SMA;107099;Amatir;Mid
+100000547;Wanita;Menikah;37;SMA;116021;Amatir;Big
+100000548;Pria;Belum Menikah;32;Unknown;100426;Amatir;Big
+100000549;Wanita;Menikah;24;SMA;62249;Tidak Bekerja;Small
+100000550;Pria;Belum Menikah;35;SMA;172957;Amatir;Mid
+100000551;Wanita;Menikah;23;SMA;95003;Amatir;Mid
+100000552;Pria;Belum Menikah;45;SMA;109698;Tidak Bekerja;Small
+100000553;Pria;Menikah;34;SMA;157376;Amatir;Small
+100000554;Pria;Belum Menikah;27;Unknown;123191;Amatir;Big
+100000555;Wanita;Menikah;67;S2;171052;Proffesional;Small
+100000556;Pria;Belum Menikah;22;Unknown;99328;Amatir;Small
+100000557;Wanita;Menikah;28;SMA;133799;Amatir;Big
+100000558;Wanita;Menikah;29;SMA;138256;Amatir;Big
+100000559;Pria;Belum Menikah;27;Unknown;115638;Amatir;Small
+100000560;Pria;Belum Menikah;31;Unknown;82238;Tidak Bekerja;Small
+100000561;Pria;Belum Menikah;49;SMA;127543;Amatir;Mid
+100000562;Pria;Belum Menikah;24;Unknown;63987;Tidak Bekerja;Small
+100000563;Wanita;Menikah;29;SMA;114784;Amatir;Small
+100000564;Pria;Belum Menikah;37;SMA;217450;Amatir;Mid
+100000565;Pria;Belum Menikah;37;SMA;173751;Proffesional;Big
+100000566;Wanita;Menikah;23;SMA;122850;Amatir;Small
+100000567;Pria;Menikah;36;SMA;104953;Amatir;Small
+100000568;Pria;Belum Menikah;34;SMA;152371;Amatir;Mid
+100000569;Pria;Belum Menikah;41;SMA;139905;Amatir;Small
+100000570;Wanita;Menikah;31;SMA;156700;Amatir;Mid
+100000571;Wanita;Menikah;23;SMA;86488;Tidak Bekerja;Small
+100000572;Pria;Belum Menikah;38;SMA;147472;Amatir;Small
+100000573;Wanita;Menikah;26;SMA;169991;Proffesional;Small
+100000574;Wanita;Menikah;22;SMA;62381;Tidak Bekerja;Small
+100000575;Pria;Belum Menikah;27;Unknown;70926;Tidak Bekerja;Small
+100000576;Wanita;Menikah;24;SMA;113004;Amatir;Mid
+100000577;Wanita;Menikah;27;SMA;125760;Amatir;Small
+100000578;Wanita;Menikah;33;SMA;111918;Amatir;Big
+100000579;Pria;Menikah;27;SMA;120674;Amatir;Mid
+100000580;Pria;Menikah;27;SMA;63597;Tidak Bekerja;Small
+100000581;Pria;Belum Menikah;30;Unknown;103069;Amatir;Mid
+100000582;Pria;Belum Menikah;49;SMA;108079;Tidak Bekerja;Small
+100000583;Wanita;Menikah;26;SMA;101159;Amatir;Mid
+100000584;Pria;Belum Menikah;33;SMA;88211;Tidak Bekerja;Small
+100000585;Wanita;Menikah;52;S1;159052;Proffesional;Mid
+100000586;Wanita;Menikah;20;SMA;102623;Amatir;Big
+100000587;Pria;Belum Menikah;36;SMA;115589;Amatir;Small
+100000588;Pria;Belum Menikah;21;Unknown;59127;Tidak Bekerja;Small
+100000589;Pria;Menikah;47;S1;82240;Tidak Bekerja;Small
+100000590;Pria;Belum Menikah;60;S1;129425;Amatir;Mid
+100000591;Wanita;Menikah;58;S1;87058;Tidak Bekerja;Small
+100000592;Wanita;Menikah;42;S1;128462;Amatir;Big
+100000593;Wanita;Menikah;36;SMA;121403;Tidak Bekerja;Small
+100000594;Wanita;Menikah;20;SMA;88141;Tidak Bekerja;Small
+100000595;Pria;Belum Menikah;40;SMA;134946;Proffesional;Big
+100000596;Wanita;Menikah;32;SMA;94058;Tidak Bekerja;Small
+100000597;Wanita;Menikah;23;SMA;99285;Amatir;Mid
+100000598;Pria;Belum Menikah;36;SMA;108432;Tidak Bekerja;Small
+100000599;Pria;Belum Menikah;31;Unknown;111369;Amatir;Small
+100000600;Pria;Belum Menikah;32;Unknown;122612;Amatir;Big
+100000601;Wanita;Menikah;45;S1;134350;Amatir;Small
+100000602;Wanita;Menikah;30;SMA;108838;Amatir;Big
+100000603;Wanita;Menikah;34;SMA;90852;Tidak Bekerja;Small
+100000604;Wanita;Menikah;28;SMA;151580;Proffesional;Big
+100000605;Wanita;Menikah;23;SMA;115681;Amatir;Mid
+100000606;Pria;Belum Menikah;22;Unknown;131699;Amatir;Mid
+100000607;Pria;Belum Menikah;74;S1;192481;Proffesional;Mid
+100000608;Wanita;Menikah;50;S1;155122;Amatir;Big
+100000609;Pria;Belum Menikah;33;SMA;106015;Amatir;Big
+100000610;Pria;Belum Menikah;45;SMA;108378;Amatir;Small
+100000611;Wanita;Menikah;22;SMA;105257;Amatir;Mid
+100000612;Wanita;Menikah;48;S1;118788;Tidak Bekerja;Small
+100000613;Wanita;Menikah;29;SMA;162955;Amatir;Big
+100000614;Wanita;Menikah;22;SMA;119511;Amatir;Big
+100000615;Wanita;Menikah;22;SMA;102000;Amatir;Small
+100000616;Pria;Belum Menikah;48;SMA;254449;Proffesional;Mid
+100000617;Pria;Belum Menikah;27;Unknown;208446;Proffesional;Big
+100000618;Pria;Belum Menikah;37;SMA;124805;Amatir;Small
+100000619;Wanita;Menikah;21;SMA;139379;Amatir;Small
+100000620;Pria;Menikah;49;S1;78296;Tidak Bekerja;Small
+100000621;Pria;Belum Menikah;27;Unknown;125598;Amatir;Mid
+100000622;Pria;Belum Menikah;32;Unknown;100215;Amatir;Big
+100000623;Pria;Menikah;38;SMA;130951;Amatir;Big
+100000624;Wanita;Menikah;22;SMA;102480;Amatir;Big
+100000625;Pria;Belum Menikah;65;S1;136812;Amatir;Mid
+100000626;Pria;Belum Menikah;35;SMA;106919;Amatir;Mid
+100000627;Pria;Belum Menikah;41;SMA;131020;Amatir;Big
+100000628;Pria;Belum Menikah;29;Unknown;119429;Amatir;Mid
+100000629;Pria;Belum Menikah;36;SMA;154521;Amatir;Mid
+100000630;Pria;Belum Menikah;64;S1;117842;Tidak Bekerja;Small
+100000631;Wanita;Menikah;28;SMA;124566;Amatir;Big
+100000632;Pria;Belum Menikah;44;SMA;110009;Amatir;Big
+100000633;Pria;Belum Menikah;23;Unknown;101210;Amatir;Mid
+100000634;Wanita;Menikah;19;SMA;101258;Amatir;Small
+100000635;Wanita;Menikah;25;SMA;79045;Tidak Bekerja;Small
+100000636;Pria;Belum Menikah;47;SMA;110866;Amatir;Small
+100000637;Wanita;Menikah;28;SMA;129640;Amatir;Big
+100000638;Pria;Belum Menikah;21;Unknown;227021;Amatir;Mid
+100000639;Wanita;Menikah;34;SMA;108549;Amatir;Mid
+100000640;Pria;Belum Menikah;26;Unknown;122693;Amatir;Small
+100000641;Wanita;Menikah;27;SMA;35832;Tidak Bekerja;Small
+100000642;Pria;Belum Menikah;38;SMA;81870;Tidak Bekerja;Small
+100000643;Pria;Belum Menikah;40;SMA;179790;Proffesional;Big
+100000644;Pria;Menikah;33;SMA;107158;Amatir;Mid
+100000645;Pria;Menikah;32;SMA;136638;Proffesional;Mid
+100000646;Pria;Belum Menikah;27;Unknown;158147;Amatir;Big
+100000647;Pria;Menikah;32;SMA;132587;Amatir;Big
+100000648;Wanita;Menikah;26;SMA;128140;Amatir;Big
+100000649;Pria;Belum Menikah;38;SMA;117405;Amatir;Mid
+100000650;Pria;Belum Menikah;40;SMA;68475;Tidak Bekerja;Small
+100000651;Pria;Belum Menikah;50;SMA;201656;Proffesional;Big
+100000652;Pria;Belum Menikah;37;SMA;86967;Tidak Bekerja;Small
+100000653;Pria;Belum Menikah;45;SMA;118006;Amatir;Mid
+100000654;Pria;Belum Menikah;42;SMA;223630;Proffesional;Big
+100000655;Pria;Belum Menikah;35;SMA;110442;Amatir;Small
+100000656;Pria;Belum Menikah;22;Unknown;115691;Amatir;Big
+100000657;Pria;Belum Menikah;41;SMA;80232;Tidak Bekerja;Small
+100000658;Pria;Belum Menikah;37;SMA;187647;Amatir;Mid
+100000659;Wanita;Menikah;28;SMA;138952;Amatir;Mid
+100000660;Pria;Belum Menikah;41;SMA;162772;Amatir;Big
+100000661;Pria;Menikah;23;SMA;111862;Amatir;Mid
+100000662;Pria;Menikah;23;SMA;90051;Amatir;Mid
+100000663;Pria;Belum Menikah;50;SMA;121400;Amatir;Mid
+100000664;Pria;Belum Menikah;35;SMA;137000;Proffesional;Big
+100000665;Wanita;Menikah;50;S1;105031;Tidak Bekerja;Small
+100000666;Pria;Belum Menikah;27;Unknown;172153;Proffesional;Big
+100000667;Pria;Belum Menikah;34;SMA;170184;Amatir;Mid
+100000668;Wanita;Menikah;27;SMA;123279;Amatir;Mid
+100000669;Pria;Belum Menikah;43;SMA;140795;Amatir;Small
+100000670;Pria;Belum Menikah;47;SMA;144456;Amatir;Small
+100000671;Pria;Belum Menikah;27;Unknown;104773;Tidak Bekerja;Small
+100000672;Pria;Belum Menikah;31;Unknown;153353;Amatir;Mid
+100000673;Pria;Belum Menikah;42;SMA;223018;Proffesional;Mid
+100000674;Pria;Menikah;24;SMA;129177;Amatir;Big
+100000675;Pria;Belum Menikah;41;SMA;114475;Tidak Bekerja;Mid
+100000676;Wanita;Menikah;26;SMA;161323;Proffesional;Mid
+100000677;Pria;Belum Menikah;33;SMA;135765;Amatir;Big
+100000678;Pria;Menikah;24;SMA;158421;Amatir;Small
+100000679;Pria;Belum Menikah;64;S1;103941;Tidak Bekerja;Small
+100000680;Wanita;Menikah;26;SMA;101783;Amatir;Big
+100000681;Wanita;Menikah;56;S1;126531;Amatir;Mid
+100000682;Pria;Belum Menikah;37;SMA;111394;Amatir;Mid
+100000683;Pria;Menikah;33;SMA;103577;Amatir;Big
+100000684;Pria;Menikah;47;S1;149545;Amatir;Mid
+100000685;Pria;Belum Menikah;31;Unknown;171857;Tidak Bekerja;Small
+100000686;Pria;Belum Menikah;34;SMA;149782;Amatir;Mid
+100000687;Pria;Belum Menikah;27;Unknown;112470;Amatir;Mid
+100000688;Pria;Belum Menikah;30;Unknown;133907;Amatir;Big
+100000689;Pria;Belum Menikah;35;SMA;127849;Amatir;Mid
+100000690;Pria;Belum Menikah;31;Unknown;160279;Amatir;Big
+100000691;Pria;Menikah;25;SMA;92366;Amatir;Big
+100000692;Wanita;Menikah;25;SMA;104794;Tidak Bekerja;Small
+100000693;Pria;Belum Menikah;29;Unknown;133436;Amatir;Mid
+100000694;Pria;Belum Menikah;44;SMA;110374;Tidak Bekerja;Small
+100000695;Pria;Belum Menikah;28;Unknown;104263;Amatir;Mid
+100000696;Pria;Belum Menikah;50;SMA;138752;Amatir;Small
+100000697;Pria;Belum Menikah;29;Unknown;102723;Amatir;Small
+100000698;Wanita;Menikah;38;SMA;46297;Tidak Bekerja;Small
+100000699;Pria;Belum Menikah;24;Unknown;96425;Amatir;Mid
+100000700;Pria;Belum Menikah;40;SMA;158197;Proffesional;Mid
+100000701;Wanita;Menikah;29;SMA;98008;Tidak Bekerja;Small
+100000702;Pria;Belum Menikah;46;SMA;157473;Amatir;Small
+100000703;Wanita;Menikah;47;S1;149306;Amatir;Small
+100000704;Pria;Belum Menikah;41;SMA;139236;Amatir;Mid
+100000705;Wanita;Menikah;32;SMA;125890;Amatir;Big
+100000706;Wanita;Menikah;35;SMA;173124;Amatir;Mid
+100000707;Pria;Belum Menikah;24;Unknown;164621;Amatir;Mid
+100000708;Wanita;Menikah;25;SMA;124539;Amatir;Mid
+100000709;Wanita;Menikah;25;SMA;107614;Amatir;Mid
+100000710;Pria;Belum Menikah;37;SMA;88849;Tidak Bekerja;Small
+100000711;Pria;Belum Menikah;32;Unknown;148566;Proffesional;Big
+100000712;Wanita;Menikah;35;SMA;106515;Amatir;Big
+100000713;Pria;Belum Menikah;46;SMA;150465;Proffesional;Mid
+100000714;Pria;Belum Menikah;25;Unknown;60868;Tidak Bekerja;Small
+100000715;Pria;Belum Menikah;27;Unknown;255198;Proffesional;Big
+100000716;Pria;Belum Menikah;63;S1;183178;Amatir;Mid
+100000717;Pria;Belum Menikah;40;SMA;121448;Amatir;Big
+100000718;Pria;Belum Menikah;32;Unknown;129975;Proffesional;Big
+100000719;Pria;Belum Menikah;31;Unknown;132950;Amatir;Big
+100000720;Pria;Menikah;31;SMA;169314;Amatir;Mid
+100000721;Pria;Belum Menikah;34;SMA;147958;Proffesional;Mid
+100000722;Wanita;Menikah;24;SMA;139896;Amatir;Big
+100000723;Wanita;Menikah;24;SMA;68028;Tidak Bekerja;Small
+100000724;Wanita;Menikah;66;S2;133328;Tidak Bekerja;Small
+100000725;Wanita;Menikah;21;SMA;108518;Amatir;Big
+100000726;Wanita;Menikah;41;S1;112700;Tidak Bekerja;Small
+100000727;Pria;Menikah;47;S1;110190;Tidak Bekerja;Small
+100000728;Wanita;Menikah;25;SMA;105104;Amatir;Mid
+100000729;Wanita;Menikah;59;S1;184753;Amatir;Mid
+100000730;Pria;Menikah;36;SMA;162521;Amatir;Big
+100000731;Pria;Belum Menikah;33;SMA;156794;Amatir;Mid
+100000732;Pria;Belum Menikah;21;Unknown;65827;Tidak Bekerja;Small
+100000733;Wanita;Menikah;44;S1;88490;Tidak Bekerja;Small
+100000734;Wanita;Menikah;28;SMA;154919;Amatir;Big
+100000735;Wanita;Menikah;37;SMA;129058;Amatir;Small
+100000736;Wanita;Menikah;29;SMA;77532;Tidak Bekerja;Small
+100000737;Wanita;Menikah;23;SMA;235417;Proffesional;Big
+100000738;Pria;Belum Menikah;35;SMA;113468;Tidak Bekerja;Small
+100000739;Pria;Belum Menikah;45;SMA;190803;Proffesional;Big
+100000740;Wanita;Menikah;26;SMA;121423;Tidak Bekerja;Small
+100000741;Pria;Belum Menikah;32;Unknown;121347;Amatir;Mid
+100000742;Pria;Belum Menikah;23;Unknown;67408;Tidak Bekerja;Small
+100000743;Pria;Belum Menikah;41;SMA;123043;Amatir;Mid
+100000744;Pria;Belum Menikah;22;Unknown;128387;Amatir;Big
+100000745;Pria;Belum Menikah;30;Unknown;250050;Proffesional;Mid
+100000746;Pria;Belum Menikah;28;Unknown;69588;Tidak Bekerja;Small
+100000747;Wanita;Menikah;23;SMA;109547;Amatir;Mid
+100000748;Wanita;Menikah;37;SMA;78840;Tidak Bekerja;Small
+100000749;Pria;Belum Menikah;26;Unknown;131122;Amatir;Small
+100000750;Pria;Belum Menikah;33;SMA;115403;Amatir;Mid
+100000751;Wanita;Menikah;49;S1;110291;Amatir;Big
+100000752;Wanita;Menikah;23;SMA;64811;Tidak Bekerja;Small
+100000753;Wanita;Menikah;23;SMA;86015;Tidak Bekerja;Small
+100000754;Wanita;Menikah;25;SMA;142438;Amatir;Big
+100000755;Pria;Belum Menikah;55;SMA;159303;Amatir;Mid
+100000756;Wanita;Menikah;32;SMA;104957;Amatir;Mid
+100000757;Pria;Belum Menikah;74;S1;89502;Tidak Bekerja;Small
+100000758;Pria;Belum Menikah;39;SMA;121313;Amatir;Mid
+100000759;Pria;Belum Menikah;31;Unknown;98102;Amatir;Small
+100000760;Pria;Belum Menikah;35;SMA;94554;Amatir;Mid
+100000761;Wanita;Menikah;59;S1;162591;Amatir;Mid
+100000762;Wanita;Menikah;24;SMA;106629;Amatir;Big
+100000763;Pria;Belum Menikah;24;Unknown;70400;Tidak Bekerja;Small
+100000764;Pria;Belum Menikah;30;Unknown;235660;Proffesional;Big
+100000765;Pria;Menikah;27;SMA;121747;Amatir;Big
+100000766;Pria;Menikah;40;SMA;85060;Tidak Bekerja;Small
+100000767;Pria;Menikah;31;SMA;87630;Tidak Bekerja;Small
+100000768;Wanita;Menikah;31;SMA;119673;Amatir;Small
+100000769;Pria;Belum Menikah;28;Unknown;126060;Amatir;Big
+100000770;Pria;Belum Menikah;63;S1;96145;Tidak Bekerja;Small
+100000771;Wanita;Menikah;26;SMA;114830;Amatir;Small
+100000772;Wanita;Menikah;25;SMA;194461;Proffesional;Big
+100000773;Pria;Belum Menikah;36;SMA;150158;Proffesional;Big
+100000774;Pria;Belum Menikah;52;SMA;136323;Amatir;Big
+100000775;Pria;Belum Menikah;66;S1;111858;Tidak Bekerja;Small
+100000776;Wanita;Menikah;25;SMA;100198;Amatir;Small
+100000777;Pria;Belum Menikah;37;SMA;123452;Amatir;Big
+100000778;Wanita;Menikah;25;SMA;120723;Amatir;Mid
+100000779;Pria;Belum Menikah;38;SMA;215639;Proffesional;Mid
+100000780;Wanita;Menikah;67;S2;166712;Amatir;Mid
+100000781;Pria;Belum Menikah;25;Unknown;136300;Amatir;Mid
+100000782;Pria;Belum Menikah;60;S1;166988;Amatir;Big
+100000783;Pria;Belum Menikah;31;Unknown;77265;Tidak Bekerja;Small
+100000784;Wanita;Menikah;23;SMA;85967;Tidak Bekerja;Small
+100000785;Pria;Menikah;60;S1;212020;Proffesional;Small
+100000786;Pria;Belum Menikah;35;SMA;126054;Tidak Bekerja;Small
+100000787;Pria;Belum Menikah;40;SMA;144589;Amatir;Small
+100000788;Pria;Belum Menikah;38;SMA;116723;Amatir;Mid
+100000789;Pria;Belum Menikah;50;SMA;168637;Amatir;Mid
+100000790;Pria;Belum Menikah;27;Unknown;139119;Amatir;Mid
+100000791;Wanita;Menikah;39;S1;118610;Amatir;Big
+100000792;Pria;Belum Menikah;41;SMA;183312;Proffesional;Big
+100000793;Pria;Menikah;27;SMA;96323;Amatir;Small
+100000794;Pria;Menikah;51;S1;149510;Amatir;Big
+100000795;Pria;Belum Menikah;32;Unknown;141922;Amatir;Big
+100000796;Wanita;Menikah;22;SMA;120233;Amatir;Small
+100000797;Pria;Belum Menikah;51;SMA;172790;Amatir;Mid
+100000798;Wanita;Menikah;22;SMA;66720;Tidak Bekerja;Small
+100000799;Pria;Menikah;54;S1;113024;Amatir;Mid
+100000800;Pria;Belum Menikah;35;SMA;51791;Tidak Bekerja;Small
+100000801;Pria;Belum Menikah;54;SMA;118408;Amatir;Big
+100000802;Wanita;Menikah;48;S1;101616;Tidak Bekerja;Small
+100000803;Wanita;Menikah;24;SMA;127250;Amatir;Small
+100000804;Pria;Belum Menikah;35;SMA;97290;Amatir;Small
+100000805;Wanita;Menikah;24;SMA;106970;Tidak Bekerja;Small
+100000806;Pria;Belum Menikah;24;Unknown;168147;Amatir;Big
+100000807;Pria;Menikah;26;SMA;68468;Tidak Bekerja;Small
+100000808;Pria;Belum Menikah;65;S1;120780;Amatir;Big
+100000809;Pria;Belum Menikah;55;SMA;231992;Proffesional;Big
+100000810;Wanita;Menikah;26;SMA;53903;Tidak Bekerja;Small
+100000811;Pria;Menikah;26;SMA;101511;Amatir;Big
+100000812;Pria;Menikah;28;SMA;69046;Tidak Bekerja;Small
+100000813;Pria;Belum Menikah;24;Unknown;171584;Amatir;Mid
+100000814;Pria;Belum Menikah;54;SMA;132367;Amatir;Big
+100000815;Pria;Belum Menikah;46;SMA;134433;Amatir;Big
+100000816;Wanita;Menikah;54;S1;190518;Amatir;Small
+100000817;Pria;Menikah;62;S1;152367;Amatir;Mid
+100000818;Wanita;Menikah;24;SMA;101157;Amatir;Mid
+100000819;Pria;Menikah;43;S1;279593;Proffesional;Big
+100000820;Pria;Menikah;26;SMA;96716;Amatir;Big
+100000821;Pria;Menikah;27;SMA;95171;Amatir;Small
+100000822;Pria;Menikah;24;SMA;129162;Amatir;Big
+100000823;Pria;Belum Menikah;41;SMA;118742;Amatir;Small
+100000824;Pria;Belum Menikah;47;SMA;74511;Tidak Bekerja;Small
+100000825;Pria;Menikah;35;SMA;157272;Proffesional;Mid
+100000826;Pria;Menikah;30;SMA;102374;Amatir;Small
+100000827;Wanita;Menikah;33;SMA;131492;Amatir;Small
+100000828;Pria;Belum Menikah;36;SMA;128702;Amatir;Big
+100000829;Pria;Belum Menikah;47;SMA;177509;Amatir;Big
+100000830;Pria;Belum Menikah;38;SMA;163451;Amatir;Mid
+100000831;Pria;Belum Menikah;44;SMA;144900;Amatir;Mid
+100000832;Wanita;Menikah;23;SMA;97115;Amatir;Big
+100000833;Pria;Belum Menikah;29;Unknown;196568;Amatir;Big
+100000834;Wanita;Menikah;42;S1;158405;Amatir;Small
+100000835;Wanita;Menikah;25;SMA;97376;Tidak Bekerja;Small
+100000836;Pria;Belum Menikah;48;SMA;108678;Amatir;Mid
+100000837;Wanita;Menikah;21;SMA;92351;Amatir;Small
+100000838;Wanita;Menikah;23;SMA;61211;Tidak Bekerja;Small
+100000839;Pria;Belum Menikah;63;S1;138644;Amatir;Small
+100000840;Pria;Menikah;46;S1;124824;Amatir;Big
+100000841;Pria;Belum Menikah;29;Unknown;132852;Amatir;Small
+100000842;Pria;Belum Menikah;28;Unknown;81069;Tidak Bekerja;Small
+100000843;Wanita;Menikah;23;SMA;104094;Amatir;Big
+100000844;Pria;Belum Menikah;50;SMA;114853;Amatir;Small
+100000845;Pria;Belum Menikah;47;SMA;130344;Amatir;Big
+100000846;Pria;Belum Menikah;35;SMA;135090;Amatir;Small
+100000847;Pria;Belum Menikah;68;S1;179151;Amatir;Big
+100000848;Pria;Menikah;28;SMA;97390;Amatir;Mid
+100000849;Pria;Belum Menikah;59;S1;120160;Amatir;Small
+100000850;Pria;Belum Menikah;57;S1;82277;Tidak Bekerja;Small
+100000851;Pria;Menikah;33;SMA;110844;Amatir;Big
+100000852;Pria;Belum Menikah;43;SMA;133105;Amatir;Small
+100000853;Pria;Belum Menikah;35;SMA;102042;Amatir;Small
+100000854;Pria;Belum Menikah;32;Unknown;69370;Tidak Bekerja;Small
+100000855;Pria;Belum Menikah;45;SMA;200298;Amatir;Mid
+100000856;Pria;Menikah;33;SMA;117039;Amatir;Big
+100000857;Wanita;Menikah;40;S1;107585;Amatir;Big
+100000858;Pria;Belum Menikah;28;Unknown;114429;Amatir;Small
+100000859;Wanita;Menikah;29;SMA;128234;Amatir;Big
+100000860;Pria;Belum Menikah;26;Unknown;128580;Amatir;Big
+100000861;Pria;Belum Menikah;27;Unknown;177757;Amatir;Mid
+100000862;Pria;Menikah;28;SMA;106222;Amatir;Small
+100000863;Wanita;Menikah;35;SMA;118428;Amatir;Big
+100000864;Pria;Belum Menikah;32;Unknown;139477;Tidak Bekerja;Small
+100000865;Pria;Belum Menikah;25;Unknown;71159;Tidak Bekerja;Small
+100000866;Wanita;Menikah;20;SMA;131370;Amatir;Big
+100000867;Wanita;Menikah;27;SMA;111567;Amatir;Big
+100000868;Pria;Belum Menikah;42;SMA;125482;Amatir;Big
+100000869;Pria;Belum Menikah;37;SMA;160642;Amatir;Big
+100000870;Wanita;Menikah;24;SMA;92498;Amatir;Small
+100000871;Wanita;Menikah;40;S1;199711;Amatir;Big
+100000872;Pria;Belum Menikah;46;SMA;127588;Amatir;Big
+100000873;Pria;Belum Menikah;26;Unknown;107508;Amatir;Big
+100000874;Wanita;Menikah;24;SMA;94629;Amatir;Big
+100000875;Pria;Belum Menikah;29;Unknown;87598;Tidak Bekerja;Big
+100000876;Wanita;Menikah;40;S1;161194;Amatir;Mid
+100000877;Pria;Belum Menikah;36;SMA;137342;Proffesional;Big
+100000878;Pria;Belum Menikah;28;Unknown;116848;Amatir;Mid
+100000879;Pria;Belum Menikah;27;Unknown;125190;Proffesional;Mid
+100000880;Pria;Belum Menikah;36;SMA;153441;Amatir;Small
+100000881;Pria;Belum Menikah;38;SMA;195328;Proffesional;Big
+100000882;Pria;Menikah;48;S1;190413;Amatir;Small
+100000883;Pria;Belum Menikah;36;SMA;118656;Amatir;Mid
+100000884;Wanita;Menikah;65;S2;69487;Tidak Bekerja;Small
+100000885;Pria;Menikah;43;S1;145313;Amatir;Mid
+100000886;Wanita;Menikah;53;S1;117005;Amatir;Mid
+100000887;Pria;Belum Menikah;34;SMA;123243;Amatir;Mid
+100000888;Pria;Belum Menikah;23;Unknown;237799;Amatir;Mid
+100000889;Pria;Belum Menikah;34;SMA;180617;Proffesional;Big
+100000890;Pria;Belum Menikah;40;SMA;167019;Amatir;Small
+100000891;Pria;Belum Menikah;43;SMA;147745;Proffesional;Big
+100000892;Pria;Belum Menikah;46;SMA;114254;Amatir;Mid
+100000893;Pria;Belum Menikah;38;SMA;81155;Tidak Bekerja;Small
+100000894;Pria;Belum Menikah;34;SMA;151803;Amatir;Big
+100000895;Pria;Belum Menikah;29;Unknown;94356;Amatir;Big
+100000896;Pria;Belum Menikah;31;Unknown;200621;Proffesional;Big
+100000897;Wanita;Menikah;28;SMA;144448;Proffesional;Mid
+100000898;Wanita;Menikah;35;SMA;150797;Amatir;Small
+100000899;Wanita;Menikah;33;SMA;84404;Tidak Bekerja;Small
+100000900;Pria;Belum Menikah;42;SMA;133373;Amatir;Big
+100000901;Pria;Belum Menikah;43;SMA;119502;Amatir;Big
+100000902;Pria;Menikah;44;S1;131619;Amatir;Small
+100000903;Pria;Belum Menikah;42;SMA;194084;Amatir;Big
+100000904;Pria;Menikah;40;SMA;108278;Amatir;Mid
+100000905;Pria;Belum Menikah;36;SMA;130987;Proffesional;Mid
+100000906;Pria;Belum Menikah;20;Unknown;116582;Proffesional;Big
+100000907;Pria;Belum Menikah;24;Unknown;85270;Tidak Bekerja;Small
+100000908;Pria;Menikah;27;SMA;129227;Amatir;Small
+100000909;Wanita;Menikah;46;S1;108291;Tidak Bekerja;Small
+100000910;Wanita;Menikah;33;SMA;103091;Tidak Bekerja;Small
+100000911;Wanita;Menikah;34;SMA;136975;Amatir;Mid
+100000912;Wanita;Menikah;25;SMA;111502;Tidak Bekerja;Small
+100000913;Wanita;Menikah;25;SMA;124750;Amatir;Mid
+100000914;Pria;Menikah;28;SMA;146463;Amatir;Big
+100000915;Pria;Belum Menikah;31;Unknown;115075;Amatir;Small
+100000916;Wanita;Menikah;32;SMA;308491;Proffesional;Mid
+100000917;Pria;Belum Menikah;32;Unknown;126368;Amatir;Small
+100000918;Pria;Belum Menikah;68;S1;287247;Proffesional;Big
+100000919;Pria;Menikah;33;SMA;125535;Amatir;Big
+100000920;Pria;Belum Menikah;39;SMA;153223;Proffesional;Big
+100000921;Wanita;Menikah;28;SMA;106873;Amatir;Mid
+100000922;Pria;Belum Menikah;37;SMA;268906;Proffesional;Mid
+100000923;Wanita;Menikah;22;SMA;97757;Amatir;Big
+100000924;Pria;Belum Menikah;30;Unknown;112151;Amatir;Mid
+100000925;Pria;Menikah;55;S1;172909;Amatir;Small
+100000926;Pria;Belum Menikah;46;SMA;103387;Amatir;Mid
+100000927;Wanita;Menikah;21;SMA;93916;Amatir;Big
+100000928;Pria;Belum Menikah;39;SMA;189963;Amatir;Big
+100000929;Pria;Belum Menikah;58;S1;124191;Amatir;Small
+100000930;Pria;Belum Menikah;43;SMA;77205;Tidak Bekerja;Small
+100000931;Pria;Belum Menikah;24;Unknown;65917;Tidak Bekerja;Small
+100000932;Wanita;Menikah;22;SMA;109676;Amatir;Small
+100000933;Pria;Belum Menikah;30;Unknown;95682;Amatir;Big
+100000934;Pria;Belum Menikah;42;SMA;125516;Amatir;Big
+100000935;Wanita;Menikah;23;SMA;99822;Amatir;Small
+100000936;Pria;Belum Menikah;30;Unknown;154854;Proffesional;Mid
+100000937;Wanita;Menikah;28;SMA;84582;Tidak Bekerja;Small
+100000938;Pria;Menikah;30;SMA;145800;Proffesional;Small
+100000939;Pria;Belum Menikah;42;SMA;162869;Amatir;Mid
+100000940;Pria;Belum Menikah;46;SMA;192379;Proffesional;Big
+100000941;Pria;Belum Menikah;45;SMA;159757;Proffesional;Big
+100000942;Pria;Belum Menikah;31;Unknown;69571;Tidak Bekerja;Small
+100000943;Pria;Belum Menikah;31;Unknown;93648;Amatir;Big
+100000944;Pria;Belum Menikah;42;SMA;77472;Tidak Bekerja;Small
+100000945;Wanita;Menikah;46;S1;121501;Amatir;Small
+100000946;Wanita;Menikah;30;SMA;207262;Amatir;Small
+100000947;Pria;Belum Menikah;30;Unknown;143082;Amatir;Big
+100000948;Pria;Belum Menikah;38;SMA;147760;Proffesional;Mid
+100000949;Pria;Menikah;43;S1;82082;Tidak Bekerja;Small
+100000950;Pria;Belum Menikah;31;Unknown;132991;Amatir;Mid
+100000951;Pria;Menikah;40;SMA;78436;Tidak Bekerja;Small
+100000952;Pria;Belum Menikah;24;Unknown;99737;Amatir;Big
+100000953;Wanita;Menikah;28;SMA;164915;Amatir;Small
+100000954;Wanita;Menikah;26;SMA;223185;Proffesional;Mid
+100000955;Wanita;Menikah;29;SMA;108400;Amatir;Big
+100000956;Wanita;Menikah;57;S1;194882;Proffesional;Mid
+100000957;Pria;Belum Menikah;49;SMA;122186;Tidak Bekerja;Small
+100000958;Pria;Belum Menikah;37;SMA;79594;Tidak Bekerja;Small
+100000959;Pria;Belum Menikah;45;SMA;104355;Tidak Bekerja;Small
+100000960;Pria;Belum Menikah;30;Unknown;135894;Amatir;Big
+100000961;Pria;Menikah;30;SMA;103699;Amatir;Mid
+100000962;Pria;Menikah;47;S1;132145;Amatir;Mid
+100000963;Pria;Belum Menikah;29;Unknown;117272;Amatir;Big
+100000964;Pria;Belum Menikah;35;SMA;137932;Amatir;Small
+100000965;Pria;Menikah;22;SMA;63972;Tidak Bekerja;Small
+100000966;Wanita;Menikah;26;SMA;113299;Amatir;Big
+100000967;Pria;Belum Menikah;23;Unknown;108540;Tidak Bekerja;Small
+100000968;Wanita;Menikah;54;S1;174424;Proffesional;Big
+100000969;Pria;Menikah;29;SMA;154991;Amatir;Big
+100000970;Pria;Belum Menikah;40;SMA;99723;Tidak Bekerja;Small
+100000971;Pria;Belum Menikah;22;Unknown;114584;Amatir;Big
+100000972;Pria;Belum Menikah;43;SMA;135275;Tidak Bekerja;Small
+100000973;Wanita;Menikah;29;SMA;41680;Tidak Bekerja;Small
+100000974;Pria;Belum Menikah;36;SMA;158769;Amatir;Mid
+100000975;Wanita;Menikah;33;SMA;120596;Amatir;Small
+100000976;Wanita;Menikah;57;S1;139641;Tidak Bekerja;Small
+100000977;Wanita;Menikah;64;S2;134377;Amatir;Small
+100000978;Pria;Belum Menikah;42;SMA;125804;Amatir;Big
+100000979;Pria;Belum Menikah;47;SMA;91858;Tidak Bekerja;Small
+100000980;Pria;Menikah;25;SMA;117641;Amatir;Big
+100000981;Pria;Belum Menikah;49;SMA;188594;Amatir;Mid
+100000982;Pria;Belum Menikah;33;SMA;162827;Proffesional;Big
+100000983;Wanita;Menikah;28;SMA;178991;Proffesional;Big
+100000984;Pria;Belum Menikah;26;Unknown;159739;Amatir;Mid
+100000985;Pria;Belum Menikah;30;Unknown;73401;Tidak Bekerja;Small
+100000986;Wanita;Menikah;25;SMA;100794;Amatir;Big
+100000987;Pria;Menikah;33;SMA;167763;Amatir;Mid
+100000988;Wanita;Menikah;64;S2;145174;Amatir;Small
+100000989;Pria;Belum Menikah;29;Unknown;176292;Proffesional;Mid
+100000990;Pria;Belum Menikah;48;SMA;94024;Tidak Bekerja;Small
+100000991;Pria;Belum Menikah;37;SMA;93740;Tidak Bekerja;Small
+100000992;Pria;Belum Menikah;34;SMA;85685;Tidak Bekerja;Small
+100000993;Pria;Menikah;23;SMA;69997;Tidak Bekerja;Small
+100000994;Pria;Belum Menikah;30;Unknown;151938;Proffesional;Big
+100000995;Pria;Belum Menikah;50;SMA;122830;Amatir;Mid
+100000996;Wanita;Menikah;31;SMA;78489;Tidak Bekerja;Small
+100000997;Pria;Menikah;40;SMA;161999;Proffesional;Mid
+100000998;Pria;Belum Menikah;38;SMA;98032;Amatir;Big
+100000999;Pria;Belum Menikah;23;Unknown;96060;Amatir;Small
+100001000;Pria;Belum Menikah;27;Unknown;147968;Amatir;Mid
+100001001;Wanita;Menikah;63;S1;134853;Amatir;Mid
+100001002;Pria;Belum Menikah;66;S1;157576;Proffesional;Big
+100001003;Pria;Menikah;43;S1;203738;Proffesional;Mid
+100001004;Pria;Menikah;44;S1;280570;Proffesional;Big
+100001005;Pria;Menikah;65;S2;69487;Tidak Bekerja;Big
+100001006;Wanita;Menikah;73;S2;214126;Proffesional;Mid
+100001007;Pria;Belum Menikah;60;S1;136671;Amatir;Mid
+100001008;Pria;Menikah;62;S1;174337;Amatir;Mid
+100001009;Wanita;Menikah;58;S1;126710;Amatir;Mid
+100001010;Wanita;Menikah;43;S1;167139;Proffesional;Big
+100001011;Pria;Belum Menikah;64;S1;122094;Amatir;Big
+100001012;Pria;Menikah;37;S2;170113;Proffesional;Big
+100001013;Wanita;Menikah;46;S1;192698;Proffesional;Mid
+100001014;Pria;Menikah;57;S1;144197;Amatir;Big
+100001015;Pria;Menikah;51;S1;133623;Amatir;Mid
+100001016;Wanita;Menikah;32;S2;171052;Proffesional;Big
+100001017;Pria;Belum Menikah;64;S1;130492;Amatir;Big
+100001018;Pria;Belum Menikah;68;S1;135705;Amatir;Mid
+100001019;Wanita;Menikah;55;S1;171804;Proffesional;Big
+100001020;Pria;Belum Menikah;73;S1;192167;Proffesional;Mid
+100001021;Wanita;Menikah;34;S2;134377;Amatir;Big
+100001022;Pria;Menikah;44;S1;146716;Amatir;Mid
+100001023;Pria;Belum Menikah;58;S1;267872;Amatir;Mid
+100001024;Wanita;Menikah;65;S1;142193;Tidak Bekerja;Mid
+100001025;Wanita;Menikah;56;S1;183765;Amatir;Mid
+100001026;Wanita;Menikah;42;S1;218664;Proffesional;Big
+100001027;Wanita;Menikah;65;S2;145174;Amatir;Big
+100001028;Pria;Belum Menikah;72;S1;224961;Proffesional;Big
+100001029;Wanita;Menikah;45;S1;262634;Proffesional;Big
+100001030;Pria;Belum Menikah;68;S1;287106;Proffesional;Big
+100001031;Pria;Belum Menikah;60;S1;166298;Proffesional;Mid
+100001032;Wanita;Menikah;30;S2;133328;Tidak Bekerja;Big
+100001033;Pria;Belum Menikah;63;S1;129798;Amatir;Mid
+100001034;Pria;Belum Menikah;57;S1;281084;Proffesional;Mid
+100001035;Wanita;Menikah;46;S1;160678;Amatir;Big
+100001036;Wanita;Menikah;70;S2;167532;Amatir;Mid
+100001037;Pria;Belum Menikah;65;S1;178591;Amatir;Big
+100001038;Pria;Belum Menikah;63;S1;273063;Proffesional;Big
+100001039;Pria;Menikah;54;S1;149410;Amatir;Big
+100001040;Pria;Menikah;49;S1;124658;Amatir;Big
+100001041;Wanita;Menikah;64;S1;153645;Amatir;Big
+100001042;Wanita;Menikah;61;S1;308529;Proffesional;Big
+100001043;Wanita;Menikah;57;S1;155062;Amatir;Big
+100001044;Wanita;Menikah;42;S1;199654;Amatir;Big
+100001045;Pria;Belum Menikah;62;S1;124723;Amatir;Big
+100001046;Wanita;Menikah;41;S1;127752;Amatir;Big
+100001047;Wanita;Menikah;51;S1;157595;Proffesional;Mid
+100001048;Wanita;Menikah;38;S1;135534;Amatir;Big
+100001049;Wanita;Menikah;56;S1;166264;Proffesional;Big
+100001050;Wanita;Menikah;43;S1;147259;Amatir;Mid
+100001051;Wanita;Menikah;48;S1;161116;Amatir;Mid
+100001052;Pria;Belum Menikah;61;S1;139380;Amatir;Mid
+100001053;Pria;Menikah;48;S1;213768;Proffesional;Big
+100001054;Pria;Belum Menikah;68;S1;125903;Amatir;Big
+100001055;Wanita;Menikah;62;S1;163940;Amatir;Mid
+100001056;Wanita;Menikah;56;S1;173378;Proffesional;Big
+100001057;Wanita;Menikah;53;S1;126847;Amatir;Mid
+100001058;Pria;Menikah;33;S2;166712;Amatir;Big
+100001059;Wanita;Menikah;60;S1;189166;Amatir;Mid
+100001060;Wanita;Menikah;47;S1;161714;Amatir;Mid
+100001061;Pria;Menikah;25;S2;214364;Proffesional;Big
+100001062;Pria;Belum Menikah;64;S1;184680;Amatir;Mid
+100001063;Pria;Belum Menikah;73;S1;214732;Proffesional;Mid
+100001064;Pria;Menikah;66;S1;152527;Amatir;Mid
+100001065;Wanita;Menikah;76;S2;170366;Proffesional;Mid
+100001066;Wanita;Menikah;60;S1;194532;Proffesional;Mid
+100001067;Wanita;Menikah;57;S1;125883;Amatir;Big
+100001068;Pria;Menikah;30;S2;131242;Amatir;Big
+100001069;Pria;Menikah;43;S1;159880;Proffesional;Mid
+100001070;Pria;Belum Menikah;57;S1;165519;Amatir;Big
+100001071;Pria;Menikah;51;S1;149653;Amatir;Mid
+100001072;Wanita;Menikah;61;S1;134102;Amatir;Mid
+100001073;Pria;Belum Menikah;64;S1;159378;Proffesional;Big
+100001074;Pria;Menikah;41;S1;205476;Proffesional;Mid
+100001075;Pria;Menikah;43;S1;280566;Proffesional;Big
+100001076;Pria;Menikah;67;S2;71823;Tidak Bekerja;Big
+100001077;Wanita;Menikah;71;S2;211572;Proffesional;Mid
+100001078;Pria;Belum Menikah;59;S1;136123;Amatir;Mid
+100001079;Pria;Menikah;60;S1;176372;Amatir;Mid
+100001080;Wanita;Menikah;60;S1;128271;Amatir;Mid
+100001081;Wanita;Menikah;45;S1;169020;Proffesional;Big
+100001082;Pria;Belum Menikah;63;S1;122267;Amatir;Big
+100001083;Pria;Menikah;38;S2;169324;Proffesional;Big
+100001084;Wanita;Menikah;46;S1;192561;Proffesional;Mid
+100001085;Pria;Menikah;55;S1;145781;Amatir;Big
+100001086;Pria;Menikah;50;S1;135376;Amatir;Mid
+100001087;Wanita;Menikah;30;S2;169002;Proffesional;Big
+100001088;Pria;Belum Menikah;63;S1;128469;Amatir;Big
+100001089;Pria;Belum Menikah;67;S1;135567;Amatir;Mid
+100001090;Wanita;Menikah;54;S1;170644;Proffesional;Big
+100001091;Pria;Belum Menikah;71;S1;192360;Proffesional;Mid
+100001092;Wanita;Menikah;32;S2;133235;Amatir;Big
+100001093;Wanita;Menikah;45;S1;260847;Proffesional;Big
+100001094;Pria;Belum Menikah;65;S1;285647;Proffesional;Big
+100001095;Pria;Belum Menikah;62;S1;164816;Proffesional;Mid
+100001096;Wanita;Menikah;28;S2;130148;Tidak Bekerja;Big
+100001097;Pria;Belum Menikah;65;S1;129838;Amatir;Mid
+100001098;Pria;Belum Menikah;57;S1;281647;Proffesional;Mid
+100001099;Wanita;Menikah;48;S1;157305;Amatir;Big
+100001100;Wanita;Menikah;71;S2;163654;Amatir;Mid
+100001101;Pria;Belum Menikah;38;SMA;82398;Amatir;Mid
+100001102;Pria;Menikah;40;SMA;107710;Amatir;Mid
+100001103;Pria;Belum Menikah;49;SMA;122346;Amatir;Mid
+100001104;Pria;Menikah;32;SMA;155540;Proffesional;Mid
+100001105;Pria;Belum Menikah;45;SMA;127572;Amatir;Mid
+100001106;Pria;Belum Menikah;40;SMA;154031;Proffesional;Mid
+100001107;Pria;Belum Menikah;66;S1;164931;Proffesional;Big
+100001108;Pria;Belum Menikah;38;SMA;123003;Amatir;Big
+100001109;Pria;Menikah;20;SMA;89605;Amatir;Mid
+100001110;Pria;Belum Menikah;48;SMA;117721;Amatir;Mid
+100001111;Pria;Menikah;46;S1;168904;Proffesional;Mid
+100001112;Pria;Belum Menikah;32;SMA;137576;Proffesional;Big
+100001113;Pria;Belum Menikah;54;SMA;111274;Amatir;Mid
+100001114;Pria;Menikah;24;SMA;94249;Proffesional;Big
+100001115;Pria;Menikah;27;SMA;180940;Proffesional;Mid
+100001116;Pria;Belum Menikah;57;SMA;125032;Amatir;Big
+100001117;Pria;Belum Menikah;38;SMA;138011;Proffesional;Mid
+100001118;Pria;Belum Menikah;40;SMA;144850;Amatir;Mid
+100001119;Pria;Menikah;20;SMA;107270;Amatir;Big
+100001120;Pria;Belum Menikah;36;SMA;113405;Proffesional;Big
+100001121;Pria;Belum Menikah;47;SMA;137338;Amatir;Big
+100001122;Pria;Belum Menikah;64;S1;125119;Tidak Bekerja;Big
+100001123;Pria;Belum Menikah;42;SMA;159745;Proffesional;Big
+100001124;Pria;Belum Menikah;44;SMA;181262;Proffesional;Big
+100001125;Pria;Menikah;30;SMA;90500;Proffesional;Big
+100001126;Pria;Belum Menikah;37;SMA;102733;Amatir;Mid
+100001127;Pria;Belum Menikah;42;SMA;135493;Amatir;Big
+100001128;Pria;Menikah;62;S1;169044;Amatir;Mid
+100001129;Pria;Belum Menikah;49;SMA;178549;Amatir;Big
+100001130;Pria;Belum Menikah;52;SMA;159716;Amatir;Big
+100001131;Pria;Menikah;36;SMA;170118;Proffesional;Mid
+100001132;Pria;Belum Menikah;49;SMA;143886;Tidak Bekerja;Mid
+100001133;Pria;Belum Menikah;42;SMA;130164;Proffesional;Big
+100001134;Pria;Belum Menikah;38;SMA;114476;Amatir;Mid
+100001135;Pria;Belum Menikah;50;SMA;126143;Amatir;Mid
+100001136;Pria;Menikah;34;SMA;129654;Proffesional;Big
+100001137;Pria;Belum Menikah;43;SMA;123202;Amatir;Big
+100001138;Pria;Belum Menikah;40;SMA;160524;Amatir;Mid
+100001139;Pria;Belum Menikah;56;S1;126906;Amatir;Mid
+100001140;Pria;Belum Menikah;41;SMA;143994;Proffesional;Big
+100001141;Pria;Menikah;30;SMA;123517;Proffesional;Big
+100001142;Pria;Menikah;28;SMA;129055;Amatir;Big
+100001143;Pria;Belum Menikah;64;S1;136312;Tidak Bekerja;Big
+100001144;Pria;Belum Menikah;67;S1;112486;Amatir;Big
+100001145;Pria;Belum Menikah;37;SMA;152401;Proffesional;Mid
+100001146;Pria;Belum Menikah;31;SMA;157453;Proffesional;Mid
+100001147;Pria;Belum Menikah;32;SMA;142870;Proffesional;Big
+100001148;Pria;Menikah;52;S1;137231;Amatir;Big
+100001149;Pria;Menikah;31;SMA;104406;Amatir;Mid
+100001150;Pria;Belum Menikah;36;SMA;145385;Proffesional;Mid
+100001151;Pria;Menikah;32;SMA;146519;Proffesional;Mid
+100001152;Pria;Belum Menikah;51;SMA;126227;Amatir;Big
+100001153;Pria;Belum Menikah;47;SMA;112227;Proffesional;Mid
+100001154;Pria;Menikah;34;SMA;110145;Amatir;Big
+100001155;Pria;Menikah;46;S1;149419;Amatir;Mid
+100001156;Pria;Menikah;42;SMA;176646;Amatir;Mid
+100001157;Pria;Belum Menikah;39;SMA;91019;Proffesional;Mid
+100001158;Pria;Belum Menikah;50;SMA;169579;Amatir;Big
+100001159;Pria;Belum Menikah;42;SMA;142305;Amatir;Big
+100001160;Pria;Menikah;36;SMA;130602;Amatir;Mid
+100001161;Pria;Menikah;18;SMA;98992;Amatir;Mid
+100001162;Pria;Belum Menikah;35;SMA;181926;Proffesional;Big
+100001163;Pria;Belum Menikah;38;SMA;152864;Amatir;Big
+100001164;Pria;Belum Menikah;39;SMA;135837;Proffesional;Big
+100001165;Pria;Menikah;24;SMA;121757;Tidak Bekerja;Big
+100001166;Pria;Belum Menikah;41;SMA;182274;Amatir;Mid
+100001167;Pria;Belum Menikah;36;SMA;149040;Proffesional;Big
+100001168;Pria;Belum Menikah;37;SMA;154196;Proffesional;Big
+100001169;Pria;Menikah;45;S1;135332;Amatir;Mid
+100001170;Pria;Belum Menikah;41;SMA;134200;Proffesional;Big
+100001171;Pria;Belum Menikah;36;SMA;177171;Proffesional;Big
+100001172;Pria;Belum Menikah;38;SMA;115964;Tidak Bekerja;Big
+100001173;Pria;Belum Menikah;38;SMA;136871;Tidak Bekerja;Mid
+100001174;Pria;Menikah;53;S1;159559;Proffesional;Big
+100001175;Pria;Belum Menikah;35;SMA;113878;Amatir;Big
+100001176;Pria;Belum Menikah;48;SMA;171203;Proffesional;Big
+100001177;Pria;Belum Menikah;36;SMA;102180;Amatir;Big
+100001178;Pria;Menikah;22;SMA;116844;Proffesional;Mid
+100001179;Pria;Belum Menikah;35;SMA;139844;Proffesional;Big
+100001180;Pria;Belum Menikah;42;SMA;156431;Tidak Bekerja;Mid
+100001181;Pria;Belum Menikah;39;SMA;116137;Tidak Bekerja;Mid
+100001182;Pria;Belum Menikah;31;SMA;143081;Amatir;Mid
+100001183;Pria;Belum Menikah;33;SMA;155870;Proffesional;Big
+100001184;Pria;Menikah;31;SMA;106924;Tidak Bekerja;Mid
+100001185;Pria;Belum Menikah;42;SMA;102133;Amatir;Mid
+100001186;Pria;Belum Menikah;61;S1;145227;Tidak Bekerja;Mid
+100001187;Pria;Belum Menikah;38;SMA;159500;Proffesional;Big
+100001188;Pria;Belum Menikah;33;SMA;98498;Tidak Bekerja;Mid
+100001189;Pria;Belum Menikah;48;SMA;159714;Amatir;Big
+100001190;Pria;Belum Menikah;31;SMA;121852;Tidak Bekerja;Mid
+100001191;Pria;Belum Menikah;52;SMA;141271;Proffesional;Big
+100001192;Pria;Menikah;27;SMA;123213;Amatir;Big
+100001193;Pria;Belum Menikah;40;SMA;143723;Proffesional;Mid
+100001194;Pria;Belum Menikah;34;SMA;112538;Tidak Bekerja;Mid
+100001195;Pria;Menikah;26;SMA;97932;Proffesional;Big
+100001196;Pria;Belum Menikah;30;SMA;154003;Tidak Bekerja;Mid
+100001197;Pria;Belum Menikah;53;SMA;177179;Amatir;Mid
+100001198;Pria;Belum Menikah;45;SMA;128052;Amatir;Big
+100001199;Pria;Belum Menikah;32;SMA;114617;Proffesional;Mid
+100001200;Pria;Belum Menikah;35;SMA;182822;Proffesional;Big
+100001201;Pria;Menikah;26;SMA;177215;Amatir;Big
+100001202;Pria;Belum Menikah;30;SMA;110929;Amatir;Mid
+100001203;Pria;Belum Menikah;37;SMA;111821;Amatir;Mid
+100001204;Pria;Belum Menikah;32;SMA;97306;Proffesional;Mid
+100001205;Pria;Menikah;40;SMA;157231;Amatir;Mid
+100001206;Pria;Belum Menikah;44;SMA;126906;Tidak Bekerja;Big
+100001207;Pria;Belum Menikah;43;SMA;133243;Amatir;Big
+100001208;Pria;Belum Menikah;51;SMA;112250;Amatir;Mid
+100001209;Pria;Belum Menikah;37;SMA;104349;Tidak Bekerja;Mid
+100001210;Pria;Belum Menikah;33;SMA;151421;Amatir;Big
+100001211;Pria;Menikah;32;SMA;178081;Proffesional;Mid
+100001212;Pria;Belum Menikah;35;SMA;110181;Tidak Bekerja;Big
+100001213;Pria;Menikah;30;SMA;113012;Amatir;Mid
+100001214;Pria;Menikah;35;SMA;154585;Proffesional;Big
+100001215;Pria;Belum Menikah;40;SMA;144704;Proffesional;Mid
+100001216;Pria;Belum Menikah;37;SMA;141632;Proffesional;Big
+100001217;Pria;Belum Menikah;37;SMA;105055;Amatir;Big
+100001218;Pria;Belum Menikah;37;SMA;124597;Amatir;Big
+100001219;Pria;Belum Menikah;53;SMA;160164;Proffesional;Mid
+100001220;Pria;Belum Menikah;34;SMA;151754;Proffesional;Mid
+100001221;Pria;Belum Menikah;51;SMA;155551;Amatir;Mid
+100001222;Pria;Menikah;26;SMA;94986;Amatir;Big
+100001223;Pria;Belum Menikah;34;SMA;175800;Tidak Bekerja;Mid
+100001224;Pria;Belum Menikah;51;SMA;126246;Proffesional;Mid
+100001225;Pria;Belum Menikah;33;SMA;116261;Amatir;Big
+100001226;Pria;Menikah;32;SMA;117796;Tidak Bekerja;Big
+100001227;Pria;Belum Menikah;39;SMA;115363;Amatir;Mid
+100001228;Pria;Belum Menikah;53;SMA;169076;Amatir;Mid
+100001229;Pria;Belum Menikah;34;SMA;97474;Proffesional;Big
+100001230;Pria;Belum Menikah;37;SMA;140341;Amatir;Big
+100001231;Pria;Menikah;28;SMA;114503;Amatir;Mid
+100001232;Pria;Menikah;25;SMA;102937;Amatir;Big
+100001233;Pria;Belum Menikah;36;SMA;151781;Proffesional;Big
+100001234;Pria;Menikah;36;SMA;123133;Amatir;Big
+100001235;Pria;Belum Menikah;35;SMA;118879;Amatir;Big
+100001236;Pria;Menikah;21;SMA;158683;Amatir;Mid
+100001237;Pria;Menikah;29;SMA;107514;Amatir;Big
+100001238;Pria;Belum Menikah;60;S1;193879;Amatir;Mid
+100001239;Pria;Belum Menikah;45;SMA;135043;Amatir;Mid
+100001240;Pria;Menikah;56;S1;108559;Tidak Bekerja;Mid
+100001241;Pria;Menikah;30;SMA;121038;Amatir;Big
+100001242;Pria;Belum Menikah;52;SMA;151947;Proffesional;Big
+100001243;Pria;Menikah;26;SMA;118820;Amatir;Mid
+100001244;Pria;Belum Menikah;43;SMA;121517;Amatir;Mid
+100001245;Pria;Belum Menikah;34;SMA;113572;Amatir;Mid
+100001246;Pria;Menikah;22;SMA;131170;Amatir;Big
+100001247;Pria;Belum Menikah;42;SMA;92430;Tidak Bekerja;Mid
+100001248;Pria;Belum Menikah;38;SMA;124554;Tidak Bekerja;Mid
+100001249;Pria;Menikah;29;SMA;115988;Amatir;Big
+100001250;Pria;Belum Menikah;44;SMA;107301;Amatir;Big
+100001251;Pria;Menikah;29;SMA;103767;Proffesional;Mid
+100001252;Pria;Belum Menikah;44;SMA;141493;Amatir;Big
+100001253;Pria;Belum Menikah;38;SMA;154339;Amatir;Big
+100001254;Pria;Menikah;26;SMA;112369;Tidak Bekerja;Mid
+100001255;Pria;Belum Menikah;53;SMA;158193;Amatir;Mid
+100001256;Pria;Belum Menikah;43;SMA;143734;Amatir;Mid
+100001257;Pria;Belum Menikah;33;SMA;121890;Amatir;Mid
+100001258;Pria;Belum Menikah;52;SMA;127609;Tidak Bekerja;Mid
+100001259;Pria;Menikah;26;SMA;94650;Tidak Bekerja;Big
+100001260;Pria;Belum Menikah;38;SMA;175504;Proffesional;Mid
+100001261;Pria;Belum Menikah;47;SMA;165495;Amatir;Big
+100001262;Pria;Menikah;26;SMA;120389;Amatir;Mid
+100001263;Pria;Menikah;36;SMA;165340;Amatir;Mid
+100001264;Pria;Belum Menikah;36;SMA;119804;Amatir;Mid
+100001265;Pria;Belum Menikah;57;S1;154344;Proffesional;Mid
+100001266;Pria;Menikah;31;SMA;106266;Proffesional;Big
+100001267;Pria;Belum Menikah;45;SMA;136129;Amatir;Mid
+100001268;Pria;Belum Menikah;40;SMA;151914;Proffesional;Mid
+100001269;Pria;Menikah;21;SMA;121473;Amatir;Mid
+100001270;Pria;Belum Menikah;46;SMA;127147;Amatir;Big
+100001271;Pria;Belum Menikah;35;SMA;125387;Amatir;Big
+100001272;Pria;Menikah;31;SMA;139490;Tidak Bekerja;Big
+100001273;Pria;Belum Menikah;51;SMA;124990;Amatir;Big
+100001274;Pria;Menikah;21;SMA;101471;Proffesional;Mid
+100001275;Pria;Belum Menikah;48;SMA;155708;Amatir;Mid
+100001276;Pria;Belum Menikah;48;SMA;142345;Amatir;Big
+100001277;Pria;Belum Menikah;68;S1;148675;Tidak Bekerja;Mid
+100001278;Pria;Menikah;45;S1;116484;Amatir;Big
+100001279;Pria;Belum Menikah;35;SMA;150237;Proffesional;Big
+100001280;Pria;Menikah;22;SMA;100273;Amatir;Big
+100001281;Pria;Belum Menikah;44;SMA;122292;Tidak Bekerja;Mid
+100001282;Pria;Belum Menikah;52;SMA;159216;Amatir;Mid
+100001283;Pria;Belum Menikah;48;SMA;130082;Amatir;Big
+100001284;Pria;Belum Menikah;33;SMA;139547;Amatir;Big
+100001285;Pria;Menikah;35;SMA;122895;Amatir;Mid
+100001286;Pria;Menikah;64;S1;154549;Amatir;Mid
+100001287;Pria;Belum Menikah;58;SMA;149315;Tidak Bekerja;Big
+100001288;Pria;Menikah;24;SMA;118101;Tidak Bekerja;Big
+100001289;Pria;Belum Menikah;40;SMA;115831;Tidak Bekerja;Big
+100001290;Pria;Belum Menikah;49;SMA;118571;Proffesional;Big
+100001291;Pria;Belum Menikah;31;SMA;138906;Amatir;Big
+100001292;Pria;Belum Menikah;46;SMA;98520;Amatir;Big
+100001293;Pria;Belum Menikah;46;SMA;106576;Amatir;Mid
+100001294;Pria;Belum Menikah;49;SMA;121592;Amatir;Mid
+100001295;Pria;Belum Menikah;29;SMA;135605;Tidak Bekerja;Mid
+100001296;Pria;Belum Menikah;37;SMA;114552;Amatir;Big
+100001297;Pria;Belum Menikah;33;SMA;151339;Proffesional;Mid
+100001298;Pria;Belum Menikah;71;S1;170387;Amatir;Big
+100001299;Pria;Belum Menikah;35;SMA;118288;Amatir;Big
+100001300;Pria;Belum Menikah;40;SMA;109992;Amatir;Big
+100001301;Wanita;Belum Menikah;27;SMA;90654;Tidak Bekerja;Small
+100001302;Wanita;Belum Menikah;61;S1;113290;Tidak Bekerja;Small
+100001303;Wanita;Menikah;29;SMA;100093;Amatir;Mid
+100001304;Wanita;Belum Menikah;33;SMA;109489;Amatir;Small
+100001305;Wanita;Belum Menikah;56;S1;139427;Tidak Bekerja;Small
+100001306;Wanita;Menikah;27;SMA;123411;Amatir;Mid
+100001307;Wanita;Menikah;22;SMA;137925;Amatir;Small
+100001308;Wanita;Menikah;19;SMA;99119;Amatir;Small
+100001309;Wanita;Menikah;28;SMA;91084;Amatir;Mid
+100001310;Wanita;Menikah;24;SMA;110137;Amatir;Mid
+100001311;Wanita;Menikah;27;SMA;67041;Tidak Bekerja;Small
+100001312;Wanita;Menikah;30;SMA;127299;Amatir;Mid
+100001313;Wanita;Belum Menikah;26;SMA;84555;Tidak Bekerja;Small
+100001314;Wanita;Menikah;26;SMA;123895;Amatir;Small
+100001315;Wanita;Menikah;23;SMA;94324;Amatir;Mid
+100001316;Wanita;Menikah;28;SMA;96062;Amatir;Small
+100001317;Wanita;Menikah;67;S2;144843;Amatir;Small
+100001318;Wanita;Menikah;27;SMA;107485;Amatir;Mid
+100001319;Wanita;Menikah;32;SMA;98573;Amatir;Small
+100001320;Wanita;Belum Menikah;24;SMA;107462;Tidak Bekerja;Small
+100001321;Wanita;Menikah;28;SMA;115809;Amatir;Mid
+100001322;Wanita;Belum Menikah;48;S1;118749;Tidak Bekerja;Small
+100001323;Wanita;Menikah;32;SMA;139112;Amatir;Mid
+100001324;Wanita;Menikah;25;SMA;94075;Amatir;Small
+100001325;Wanita;Menikah;57;S1;62002;Tidak Bekerja;Small
+100001326;Wanita;Menikah;28;SMA;127262;Amatir;Small
+100001327;Wanita;Menikah;24;SMA;122846;Amatir;Mid
+100001328;Wanita;Menikah;25;SMA;61907;Tidak Bekerja;Small
+100001329;Wanita;Belum Menikah;31;SMA;89287;Tidak Bekerja;Small
+100001330;Wanita;Belum Menikah;33;SMA;103696;Amatir;Mid
+100001331;Wanita;Menikah;50;S1;147603;Amatir;Small
+100001332;Wanita;Menikah;58;S1;139229;Tidak Bekerja;Mid
+100001333;Wanita;Menikah;27;SMA;107932;Tidak Bekerja;Small
+100001334;Wanita;Menikah;48;S1;116235;Tidak Bekerja;Small
+100001335;Wanita;Menikah;22;SMA;85974;Tidak Bekerja;Small
+100001336;Wanita;Menikah;40;SMA;124001;Tidak Bekerja;Small
+100001337;Wanita;Menikah;32;SMA;121428;Amatir;Small
+100001338;Wanita;Belum Menikah;25;SMA;93233;Tidak Bekerja;Small
+100001339;Wanita;Menikah;27;SMA;67965;Tidak Bekerja;Small
+100001340;Wanita;Menikah;27;SMA;88001;Tidak Bekerja;Small
+100001341;Wanita;Menikah;23;SMA;129112;Amatir;Small
+100001342;Wanita;Menikah;32;SMA;109324;Amatir;Mid
+100001343;Wanita;Menikah;25;SMA;112785;Amatir;Mid
+100001344;Wanita;Menikah;46;S1;136735;Tidak Bekerja;Small
+100001345;Wanita;Menikah;21;SMA;107779;Amatir;Mid
+100001346;Wanita;Menikah;29;SMA;103526;Amatir;Small
+100001347;Wanita;Menikah;31;SMA;93171;Tidak Bekerja;Small
+100001348;Wanita;Belum Menikah;26;SMA;106559;Tidak Bekerja;Small
+100001349;Wanita;Menikah;23;SMA;112728;Amatir;Mid
+100001350;Wanita;Belum Menikah;38;SMA;102855;Amatir;Mid
+100001351;Wanita;Belum Menikah;35;SMA;85381;Tidak Bekerja;Small
+100001352;Wanita;Menikah;27;SMA;100762;Amatir;Mid
+100001353;Wanita;Menikah;22;SMA;131445;Amatir;Mid
+100001354;Wanita;Menikah;52;S1;123194;Amatir;Small
+100001355;Wanita;Menikah;19;SMA;99519;Amatir;Mid
+100001356;Wanita;Menikah;23;SMA;112853;Amatir;Small
+100001357;Wanita;Belum Menikah;42;SMA;110509;Amatir;Small
+100001358;Wanita;Menikah;27;SMA;106446;Amatir;Mid
+100001359;Wanita;Menikah;39;S1;89665;Tidak Bekerja;Small
+100001360;Wanita;Menikah;50;S1;128233;Amatir;Mid
+100001361;Wanita;Menikah;36;SMA;133615;Amatir;Small
+100001362;Wanita;Menikah;25;SMA;115833;Amatir;Mid
+100001363;Wanita;Menikah;27;SMA;65560;Tidak Bekerja;Small
+100001364;Wanita;Menikah;30;SMA;118642;Amatir;Small
+100001365;Wanita;Belum Menikah;22;SMA;63635;Tidak Bekerja;Small
+100001366;Wanita;Menikah;27;SMA;122649;Amatir;Mid
+100001367;Wanita;Belum Menikah;31;SMA;143321;Proffesional;Mid
+100001368;Wanita;Menikah;29;SMA;99556;Amatir;Small
+100001369;Wanita;Belum Menikah;34;SMA;36760;Tidak Bekerja;Small
+100001370;Wanita;Belum Menikah;33;SMA;71935;Tidak Bekerja;Small
+100001371;Wanita;Menikah;26;SMA;114977;Amatir;Small
+100001372;Wanita;Menikah;36;SMA;147691;Amatir;Mid
+100001373;Wanita;Menikah;26;SMA;54296;Tidak Bekerja;Small
+100001374;Wanita;Menikah;39;SMA;80014;Tidak Bekerja;Small
+100001375;Wanita;Menikah;44;S1;77887;Tidak Bekerja;Small
+100001376;Wanita;Menikah;46;S1;98517;Tidak Bekerja;Small
+100001377;Wanita;Menikah;31;SMA;103012;Tidak Bekerja;Small
+100001378;Wanita;Belum Menikah;26;SMA;121377;Amatir;Small
+100001379;Wanita;Menikah;22;SMA;91359;Amatir;Mid
+100001380;Wanita;Belum Menikah;48;S1;104833;Tidak Bekerja;Small
+100001381;Wanita;Menikah;27;SMA;101209;Amatir;Small
+100001382;Wanita;Belum Menikah;30;SMA;58207;Tidak Bekerja;Small
+100001383;Wanita;Menikah;27;SMA;116708;Amatir;Mid
+100001384;Wanita;Menikah;36;SMA;107471;Amatir;Mid
+100001385;Wanita;Menikah;31;SMA;128495;Amatir;Small
+100001386;Wanita;Belum Menikah;21;SMA;124468;Amatir;Small
+100001387;Wanita;Menikah;26;SMA;106922;Amatir;Mid
+100001388;Wanita;Belum Menikah;24;SMA;104291;Amatir;Small
+100001389;Wanita;Menikah;29;SMA;98204;Amatir;Small
+100001390;Wanita;Menikah;32;SMA;127071;Amatir;Small
+100001391;Wanita;Menikah;45;S1;85115;Tidak Bekerja;Small
+100001392;Wanita;Menikah;58;S1;104013;Tidak Bekerja;Small
+100001393;Wanita;Menikah;25;SMA;89863;Amatir;Small
+100001394;Wanita;Menikah;67;S2;135300;Amatir;Small
+100001395;Wanita;Menikah;53;S1;107861;Tidak Bekerja;Small
+100001396;Wanita;Menikah;24;SMA;123994;Amatir;Small
+100001397;Wanita;Belum Menikah;20;SMA;91270;Tidak Bekerja;Small
+100001398;Wanita;Menikah;71;S2;133245;Tidak Bekerja;Small
+100001399;Wanita;Menikah;31;SMA;118594;Amatir;Mid
+100001400;Wanita;Menikah;27;SMA;40606;Tidak Bekerja;Small
+100001401;Wanita;Menikah;36;SMA;129304;Tidak Bekerja;Small
+100001402;Wanita;Menikah;25;SMA;113118;Amatir;Small
+100001403;Wanita;Belum Menikah;41;SMA;133131;Amatir;Small
+100001404;Wanita;Menikah;30;SMA;106876;Amatir;Mid
+100001405;Wanita;Menikah;32;SMA;130870;Amatir;Mid
+100001406;Wanita;Menikah;29;SMA;125621;Tidak Bekerja;Small
+100001407;Wanita;Belum Menikah;27;SMA;78923;Tidak Bekerja;Small
+100001408;Wanita;Menikah;32;SMA;123983;Amatir;Small
+100001409;Wanita;Menikah;25;SMA;75184;Tidak Bekerja;Small
+100001410;Wanita;Belum Menikah;24;SMA;109693;Amatir;Small
+100001411;Wanita;Menikah;63;S1;86273;Tidak Bekerja;Small
+100001412;Wanita;Belum Menikah;42;S1;113190;Tidak Bekerja;Small
+100001413;Wanita;Menikah;22;SMA;109274;Tidak Bekerja;Small
+100001414;Wanita;Menikah;46;S1;143489;Amatir;Mid
+100001415;Wanita;Menikah;24;SMA;99570;Amatir;Mid
+100001416;Wanita;Belum Menikah;30;SMA;139468;Amatir;Mid
+100001417;Wanita;Menikah;44;S1;108627;Tidak Bekerja;Small
+100001418;Wanita;Belum Menikah;25;SMA;106355;Amatir;Small
+100001419;Wanita;Menikah;27;SMA;96952;Amatir;Small
+100001420;Wanita;Menikah;27;SMA;141502;Amatir;Mid
+100001421;Wanita;Menikah;34;SMA;110420;Amatir;Mid
+100001422;Wanita;Menikah;18;SMA;97741;Amatir;Mid
+100001423;Wanita;Menikah;25;SMA;99583;Amatir;Mid
+100001424;Wanita;Menikah;21;SMA;63698;Tidak Bekerja;Small
+100001425;Wanita;Menikah;26;SMA;116688;Amatir;Mid
+100001426;Wanita;Menikah;27;SMA;131542;Proffesional;Mid
+100001427;Wanita;Belum Menikah;25;SMA;136055;Amatir;Mid
+100001428;Wanita;Menikah;30;SMA;100195;Amatir;Mid
+100001429;Wanita;Belum Menikah;66;S2;131001;Amatir;Small
+100001430;Wanita;Menikah;25;SMA;104062;Amatir;Mid
+100001431;Wanita;Menikah;43;S1;137689;Amatir;Small
+100001432;Wanita;Menikah;35;SMA;137705;Amatir;Mid
+100001433;Wanita;Belum Menikah;70;S2;69915;Tidak Bekerja;Small
+100001434;Wanita;Belum Menikah;35;SMA;68731;Tidak Bekerja;Small
+100001435;Wanita;Menikah;26;SMA;105726;Amatir;Small
+100001436;Wanita;Belum Menikah;29;SMA;78078;Tidak Bekerja;Small
+100001437;Wanita;Menikah;22;SMA;110835;Tidak Bekerja;Small
+100001438;Wanita;Belum Menikah;26;SMA;115531;Amatir;Mid
+100001439;Wanita;Menikah;36;SMA;92723;Tidak Bekerja;Small
+100001440;Wanita;Menikah;35;SMA;107509;Amatir;Mid
+100001441;Wanita;Menikah;28;SMA;116763;Amatir;Mid
+100001442;Wanita;Menikah;24;SMA;100733;Amatir;Small
+100001443;Wanita;Menikah;34;SMA;92652;Tidak Bekerja;Small
+100001444;Wanita;Menikah;25;SMA;106987;Amatir;Small
+100001445;Wanita;Menikah;54;S1;51882;Tidak Bekerja;Small
+100001446;Wanita;Belum Menikah;46;S1;104751;Tidak Bekerja;Small
+100001447;Wanita;Menikah;42;SMA;50947;Tidak Bekerja;Small
+100001448;Wanita;Belum Menikah;45;S1;126986;Tidak Bekerja;Small
+100001449;Wanita;Belum Menikah;48;S1;110223;Tidak Bekerja;Small
+100001450;Wanita;Belum Menikah;21;SMA;100591;Tidak Bekerja;Small
+100001451;Wanita;Menikah;31;SMA;123257;Amatir;Small
+100001452;Wanita;Belum Menikah;35;SMA;137736;Amatir;Mid
+100001453;Wanita;Menikah;36;SMA;110221;Amatir;Mid
+100001454;Wanita;Menikah;32;SMA;99703;Tidak Bekerja;Small
+100001455;Wanita;Menikah;26;SMA;106667;Tidak Bekerja;Small
+100001456;Wanita;Menikah;34;SMA;143319;Amatir;Small
+100001457;Wanita;Menikah;65;S1;135557;Amatir;Mid
+100001458;Wanita;Menikah;50;S1;93390;Tidak Bekerja;Small
+100001459;Wanita;Menikah;39;SMA;97577;Amatir;Small
+100001460;Wanita;Belum Menikah;52;S1;124196;Tidak Bekerja;Small
+100001461;Wanita;Menikah;36;SMA;81136;Tidak Bekerja;Small
+100001462;Wanita;Menikah;29;SMA;119439;Amatir;Small
+100001463;Wanita;Menikah;36;SMA;145231;Amatir;Mid
+100001464;Wanita;Menikah;36;SMA;85623;Tidak Bekerja;Small
+100001465;Wanita;Menikah;27;SMA;145373;Amatir;Mid
+100001466;Wanita;Menikah;36;SMA;135896;Proffesional;Mid
+100001467;Wanita;Menikah;26;SMA;106470;Amatir;Mid
+100001468;Wanita;Belum Menikah;57;S1;113334;Amatir;Mid
+100001469;Wanita;Belum Menikah;27;SMA;100560;Tidak Bekerja;Small
+100001470;Wanita;Menikah;58;S1;108442;Tidak Bekerja;Small
+100001471;Wanita;Menikah;27;SMA;64472;Tidak Bekerja;Small
+100001472;Wanita;Menikah;49;S1;120207;Amatir;Small
+100001473;Wanita;Menikah;43;S1;101680;Amatir;Small
+100001474;Wanita;Belum Menikah;45;S1;92342;Tidak Bekerja;Small
+100001475;Wanita;Menikah;27;SMA;98611;Tidak Bekerja;Small
+100001476;Wanita;Menikah;34;SMA;97613;Amatir;Mid
+100001477;Wanita;Menikah;21;SMA;82298;Tidak Bekerja;Small
+100001478;Wanita;Menikah;54;S1;125302;Amatir;Mid
+100001479;Wanita;Menikah;43;S1;108725;Tidak Bekerja;Small
+100001480;Wanita;Belum Menikah;25;SMA;85569;Tidak Bekerja;Small
+100001481;Wanita;Belum Menikah;57;S1;110372;Tidak Bekerja;Small
+100001482;Wanita;Menikah;26;SMA;100511;Amatir;Mid
+100001483;Wanita;Belum Menikah;30;SMA;110455;Amatir;Small
+100001484;Wanita;Belum Menikah;58;S1;141993;Tidak Bekerja;Small
+100001485;Wanita;Menikah;25;SMA;121789;Amatir;Mid
+100001486;Wanita;Menikah;23;SMA;138967;Amatir;Small
+100001487;Wanita;Belum Menikah;22;SMA;105230;Amatir;Small
+100001488;Wanita;Menikah;21;SMA;90656;Amatir;Mid
+100001489;Wanita;Menikah;20;SMA;115445;Amatir;Mid
+100001490;Wanita;Menikah;22;SMA;59955;Tidak Bekerja;Small
+100001491;Wanita;Belum Menikah;27;SMA;126268;Amatir;Mid
+100001492;Wanita;Belum Menikah;24;SMA;80830;Tidak Bekerja;Small
+100001493;Wanita;Menikah;23;SMA;123625;Amatir;Small
+100001494;Wanita;Menikah;26;SMA;102543;Amatir;Mid
+100001495;Wanita;Belum Menikah;28;SMA;101948;Amatir;Small
+100001496;Wanita;Menikah;64;S2;142280;Amatir;Small
+100001497;Wanita;Menikah;26;SMA;105434;Amatir;Mid
+100001498;Wanita;Menikah;31;SMA;106115;Amatir;Small
+100001499;Wanita;Belum Menikah;28;SMA;111057;Tidak Bekerja;Small
+100001500;Wanita;Menikah;25;SMA;117758;Amatir;Mid
+100001501;Wanita;Belum Menikah;49;S1;118396;Tidak Bekerja;Small
+100001502;Wanita;Menikah;33;SMA;136260;Amatir;Mid
+100001503;Wanita;Belum Menikah;27;SMA;97192;Amatir;Small
+100001504;Wanita;Menikah;59;S1;62101;Tidak Bekerja;Small
+100001505;Wanita;Menikah;28;SMA;123497;Amatir;Small
+100001506;Wanita;Menikah;24;SMA;120326;Amatir;Mid
+100001507;Wanita;Menikah;26;SMA;66645;Tidak Bekerja;Small
+100001508;Wanita;Belum Menikah;33;SMA;83429;Tidak Bekerja;Small
+100001509;Wanita;Belum Menikah;37;SMA;107539;Amatir;Mid
+100001510;Wanita;Menikah;46;S1;153880;Amatir;Small
+100001511;Wanita;Menikah;62;S1;140178;Tidak Bekerja;Mid
+100001512;Wanita;Belum Menikah;26;SMA;100402;Tidak Bekerja;Small
+100001513;Wanita;Menikah;49;S1;122158;Tidak Bekerja;Small
+100001514;Wanita;Menikah;25;SMA;89331;Tidak Bekerja;Small
+100001515;Wanita;Menikah;37;SMA;125359;Tidak Bekerja;Small
+100001516;Wanita;Belum Menikah;31;SMA;124110;Amatir;Small
+100001517;Wanita;Belum Menikah;25;SMA;93526;Tidak Bekerja;Small
+100001518;Wanita;Menikah;21;SMA;70170;Tidak Bekerja;Small
+100001519;Wanita;Menikah;27;SMA;82357;Tidak Bekerja;Small
+100001520;Wanita;Menikah;29;SMA;126745;Amatir;Small
+100001521;Wanita;Menikah;30;SMA;103326;Amatir;Mid
+100001522;Wanita;Menikah;26;SMA;116048;Amatir;Mid
+100001523;Wanita;Menikah;40;S1;137115;Tidak Bekerja;Small
+100001524;Wanita;Menikah;23;SMA;105365;Amatir;Mid
+100001525;Wanita;Menikah;31;SMA;95911;Amatir;Small
+100001526;Wanita;Menikah;29;SMA;88669;Tidak Bekerja;Small
+100001527;Wanita;Belum Menikah;22;SMA;103776;Tidak Bekerja;Small
+100001528;Wanita;Menikah;26;SMA;108864;Amatir;Mid
+100001529;Wanita;Belum Menikah;39;SMA;106037;Amatir;Mid
+100001530;Wanita;Belum Menikah;35;SMA;84851;Tidak Bekerja;Small
+100001531;Wanita;Menikah;26;SMA;95748;Amatir;Mid
+100001532;Wanita;Menikah;28;SMA;133616;Amatir;Mid
+100001533;Wanita;Menikah;56;S1;132752;Amatir;Small
+100001534;Wanita;Menikah;22;SMA;95712;Amatir;Mid
+100001535;Wanita;Menikah;26;SMA;109063;Amatir;Small
+100001536;Wanita;Belum Menikah;41;SMA;113521;Amatir;Small
+100001537;Wanita;Menikah;29;SMA;109380;Amatir;Mid
+100001538;Wanita;Menikah;42;S1;82558;Tidak Bekerja;Small
+100001539;Wanita;Menikah;50;S1;124777;Amatir;Mid
+100001540;Wanita;Menikah;33;SMA;133542;Amatir;Small
+100001541;Wanita;Menikah;28;SMA;116492;Amatir;Mid
+100001542;Wanita;Menikah;27;SMA;68834;Tidak Bekerja;Small
+100001543;Wanita;Menikah;27;SMA;124023;Amatir;Small
+100001544;Wanita;Belum Menikah;28;SMA;63882;Tidak Bekerja;Small
+100001545;Wanita;Menikah;24;SMA;122492;Amatir;Mid
+100001546;Wanita;Belum Menikah;28;SMA;141453;Proffesional;Mid
+100001547;Wanita;Menikah;32;SMA;99327;Amatir;Small
+100001548;Wanita;Belum Menikah;32;SMA;45590;Tidak Bekerja;Small
+100001549;Wanita;Belum Menikah;30;SMA;71167;Tidak Bekerja;Small
+100001550;Wanita;Menikah;29;SMA;111992;Amatir;Small
+100001551;Wanita;Menikah;37;SMA;145140;Amatir;Mid
+100001552;Wanita;Menikah;24;SMA;49672;Tidak Bekerja;Small
+100001553;Wanita;Menikah;36;SMA;75536;Tidak Bekerja;Small
+100001554;Wanita;Menikah;40;S1;86720;Tidak Bekerja;Small
+100001555;Wanita;Menikah;51;S1;97729;Tidak Bekerja;Small
+100001556;Wanita;Menikah;33;SMA;106808;Tidak Bekerja;Small
+100001557;Wanita;Belum Menikah;31;SMA;117971;Amatir;Small
+100001558;Wanita;Menikah;29;SMA;97731;Amatir;Mid
+100001559;Wanita;Belum Menikah;48;S1;109196;Tidak Bekerja;Small
+100001560;Wanita;Menikah;25;SMA;94905;Amatir;Small
+100001561;Wanita;Belum Menikah;28;SMA;57480;Tidak Bekerja;Small
+100001562;Wanita;Menikah;23;SMA;109175;Amatir;Mid
+100001563;Wanita;Menikah;32;SMA;111174;Amatir;Mid
+100001564;Wanita;Menikah;34;SMA;127255;Amatir;Small
+100001565;Wanita;Belum Menikah;23;SMA;115499;Amatir;Small
+100001566;Wanita;Menikah;25;SMA;109499;Amatir;Mid
+100001567;Wanita;Belum Menikah;25;SMA;104696;Amatir;Small
+100001568;Wanita;Menikah;27;SMA;104467;Amatir;Small
+100001569;Wanita;Menikah;29;SMA;120157;Amatir;Small
+100001570;Wanita;Menikah;46;S1;81200;Tidak Bekerja;Small
+100001571;Wanita;Menikah;61;S1;97558;Tidak Bekerja;Small
+100001572;Wanita;Menikah;25;SMA;95914;Amatir;Small
+100001573;Wanita;Menikah;67;S2;128053;Amatir;Small
+100001574;Wanita;Menikah;49;S1;101734;Tidak Bekerja;Small
+100001575;Wanita;Menikah;21;SMA;126009;Amatir;Small
+100001576;Wanita;Belum Menikah;19;SMA;91232;Tidak Bekerja;Small
+100001577;Wanita;Menikah;67;S2;128343;Tidak Bekerja;Small
+100001578;Wanita;Menikah;31;SMA;110040;Amatir;Mid
+100001579;Wanita;Menikah;27;SMA;38247;Tidak Bekerja;Small
+100001580;Wanita;Menikah;37;SMA;129027;Tidak Bekerja;Small
+100001581;Wanita;Menikah;27;SMA;115026;Amatir;Small
+100001582;Wanita;Belum Menikah;36;SMA;130323;Amatir;Small
+100001583;Wanita;Menikah;24;SMA;103181;Amatir;Mid
+100001584;Wanita;Menikah;31;SMA;138307;Amatir;Mid
+100001585;Wanita;Menikah;29;SMA;122564;Tidak Bekerja;Small
+100001586;Wanita;Belum Menikah;28;SMA;82351;Tidak Bekerja;Small
+100001587;Wanita;Menikah;34;SMA;125351;Amatir;Small
+100001588;Wanita;Menikah;26;SMA;82940;Tidak Bekerja;Small
+100001589;Wanita;Belum Menikah;21;SMA;108029;Amatir;Small
+100001590;Wanita;Menikah;63;S1;82734;Tidak Bekerja;Small
+100001591;Wanita;Belum Menikah;38;S1;116816;Tidak Bekerja;Small
+100001592;Wanita;Menikah;20;SMA;113472;Tidak Bekerja;Small
+100001593;Wanita;Menikah;44;S1;143343;Amatir;Mid
+100001594;Wanita;Menikah;31;SMA;104074;Amatir;Mid
+100001595;Wanita;Belum Menikah;33;SMA;138525;Amatir;Mid
+100001596;Wanita;Menikah;49;S1;106960;Tidak Bekerja;Small
+100001597;Wanita;Belum Menikah;26;SMA;108323;Amatir;Small
+100001598;Wanita;Menikah;28;SMA;95784;Amatir;Small
+100001599;Wanita;Menikah;30;SMA;140673;Amatir;Mid
+100001600;Wanita;Menikah;36;SMA;104235;Amatir;Mid
+100001601;Wanita;Menikah;27;SMA;54041;Tidak Bekerja;Small
+100001602;Pria;Belum Menikah;23;Unknown;107961;Tidak Bekerja;Small
+100001603;Pria;Belum Menikah;31;Unknown;113757;Amatir;Small
+100001604;Wanita;Menikah;27;SMA;94884;Amatir;Small
+100001605;Wanita;Menikah;25;SMA;126041;Amatir;Small
+100001606;Wanita;Menikah;23;SMA;64952;Tidak Bekerja;Small
+100001607;Pria;Menikah;27;SMA;66764;Tidak Bekerja;Small
+100001608;Wanita;Belum Menikah;38;SMA;67861;Tidak Bekerja;Small
+100001609;Pria;Belum Menikah;44;SMA;113516;Tidak Bekerja;Small
+100001610;Wanita;Menikah;42;SMA;46109;Tidak Bekerja;Small
+100001611;Wanita;Menikah;25;SMA;103651;Tidak Bekerja;Small
+100001612;Pria;Menikah;40;SMA;75043;Tidak Bekerja;Small
+100001613;Wanita;Menikah;24;SMA;116473;Tidak Bekerja;Small
+100001614;Wanita;Belum Menikah;39;SMA;96614;Tidak Bekerja;Small
+100001615;Pria;Belum Menikah;24;Unknown;66447;Tidak Bekerja;Small
+100001616;Wanita;Belum Menikah;50;SMA;119068;Amatir;Small
+100001617;Wanita;Menikah;28;SMA;122973;Tidak Bekerja;Small
+100001618;Wanita;Menikah;36;SMA;81609;Tidak Bekerja;Small
+100001619;Pria;Belum Menikah;36;SMA;105519;Amatir;Small
+100001620;Wanita;Menikah;40;SMA;86649;Tidak Bekerja;Small
+100001621;Wanita;Belum Menikah;31;Unknown;76384;Tidak Bekerja;Small
+100001622;Pria;Menikah;27;SMA;67136;Tidak Bekerja;Small
+100001623;Wanita;Menikah;35;SMA;93155;Tidak Bekerja;Small
+100001624;Pria;Belum Menikah;51;SMA;124183;Tidak Bekerja;Small
+100001625;Wanita;Belum Menikah;26;Unknown;64860;Tidak Bekerja;Small
+100001626;Pria;Belum Menikah;33;SMA;87232;Tidak Bekerja;Small
+100001627;Wanita;Menikah;27;SMA;92304;Tidak Bekerja;Small
+100001628;Pria;Belum Menikah;38;SMA;84254;Tidak Bekerja;Small
+100001629;Wanita;Belum Menikah;30;Unknown;106696;Amatir;Small
+100001630;Pria;Belum Menikah;28;Unknown;113212;Amatir;Small
+100001631;Pria;Belum Menikah;23;Unknown;71076;Tidak Bekerja;Small
+100001632;Wanita;Menikah;23;SMA;114270;Tidak Bekerja;Small
+100001633;Wanita;Menikah;26;SMA;125538;Amatir;Small
+100001634;Wanita;Menikah;21;SMA;92442;Tidak Bekerja;Small
+100001635;Wanita;Belum Menikah;36;SMA;75297;Tidak Bekerja;Small
+100001636;Wanita;Menikah;24;SMA;65707;Tidak Bekerja;Small
+100001637;Pria;Belum Menikah;41;SMA;120387;Amatir;Small
+100001638;Pria;Belum Menikah;42;SMA;120946;Amatir;Small
+100001639;Pria;Belum Menikah;27;Unknown;73265;Tidak Bekerja;Small
+100001640;Pria;Menikah;40;SMA;77481;Tidak Bekerja;Small
+100001641;Wanita;Menikah;34;SMA;91282;Tidak Bekerja;Small
+100001642;Pria;Belum Menikah;40;SMA;104405;Tidak Bekerja;Small
+100001643;Pria;Belum Menikah;33;SMA;99646;Amatir;Small
+100001644;Wanita;Belum Menikah;49;SMA;97791;Tidak Bekerja;Small
+100001645;Pria;Belum Menikah;28;Unknown;81878;Tidak Bekerja;Small
+100001646;Wanita;Menikah;26;SMA;107908;Amatir;Small
+100001647;Wanita;Belum Menikah;40;SMA;98608;Tidak Bekerja;Small
+100001648;Pria;Belum Menikah;47;SMA;95228;Tidak Bekerja;Small
+100001649;Wanita;Menikah;41;SMA;128163;Amatir;Small
+100001650;Wanita;Menikah;29;SMA;94325;Tidak Bekerja;Small
+100001651;Wanita;Menikah;37;SMA;90815;Tidak Bekerja;Small
+100001652;Pria;Belum Menikah;31;Unknown;120719;Amatir;Small
+100001653;Pria;Belum Menikah;35;SMA;110159;Amatir;Small
+100001654;Pria;Belum Menikah;35;SMA;124490;Amatir;Small
+100001655;Wanita;Menikah;29;SMA;75161;Tidak Bekerja;Small
+100001656;Wanita;Belum Menikah;37;SMA;127206;Amatir;Small
+100001657;Pria;Belum Menikah;37;SMA;83660;Tidak Bekerja;Small
+100001658;Wanita;Menikah;26;SMA;87400;Tidak Bekerja;Small
+100001659;Wanita;Menikah;28;SMA;78942;Tidak Bekerja;Small
+100001660;Wanita;Menikah;23;SMA;88452;Tidak Bekerja;Small
+100001661;Pria;Belum Menikah;38;SMA;104128;Amatir;Small
+100001662;Wanita;Menikah;30;SMA;100313;Amatir;Small
+100001663;Wanita;Belum Menikah;45;SMA;107387;Amatir;Small
+100001664;Pria;Belum Menikah;24;Unknown;84355;Tidak Bekerja;Small
+100001665;Wanita;Belum Menikah;35;SMA;112723;Amatir;Small
+100001666;Wanita;Menikah;41;SMA;115892;Amatir;Small
+100001667;Pria;Menikah;30;SMA;106597;Amatir;Small
+100001668;Wanita;Menikah;30;SMA;121327;Amatir;Small
+100001669;Wanita;Menikah;26;SMA;92559;Tidak Bekerja;Small
+100001670;Wanita;Menikah;25;SMA;87537;Tidak Bekerja;Small
+100001671;Wanita;Menikah;23;SMA;70569;Tidak Bekerja;Small
+100001672;Wanita;Menikah;27;SMA;85294;Tidak Bekerja;Small
+100001673;Wanita;Belum Menikah;26;Unknown;70905;Tidak Bekerja;Small
+100001674;Pria;Belum Menikah;25;Unknown;103716;Tidak Bekerja;Small
+100001675;Pria;Menikah;27;SMA;94947;Amatir;Small
+100001676;Wanita;Belum Menikah;42;SMA;80116;Tidak Bekerja;Small
+100001677;Pria;Belum Menikah;35;SMA;86492;Tidak Bekerja;Small
+100001678;Wanita;Menikah;25;SMA;88672;Tidak Bekerja;Small
+100001679;Wanita;Menikah;26;SMA;82984;Tidak Bekerja;Small
+100001680;Pria;Belum Menikah;38;SMA;128100;Amatir;Small
+100001681;Wanita;Belum Menikah;28;Unknown;72869;Tidak Bekerja;Small
+100001682;Pria;Menikah;33;SMA;112227;Amatir;Small
+100001683;Wanita;Belum Menikah;40;SMA;94674;Tidak Bekerja;Small
+100001684;Wanita;Menikah;23;SMA;101003;Amatir;Small
+100001685;Wanita;Belum Menikah;25;Unknown;112924;Amatir;Small
+100001686;Wanita;Belum Menikah;28;Unknown;108645;Tidak Bekerja;Small
+100001687;Pria;Belum Menikah;41;SMA;69415;Tidak Bekerja;Small
+100001688;Wanita;Belum Menikah;50;SMA;112204;Tidak Bekerja;Small
+100001689;Wanita;Menikah;23;SMA;109700;Amatir;Small
+100001690;Wanita;Menikah;26;SMA;104484;Amatir;Small
+100001691;Wanita;Menikah;22;SMA;61239;Tidak Bekerja;Small
+100001692;Pria;Belum Menikah;37;SMA;119602;Tidak Bekerja;Small
+100001693;Wanita;Belum Menikah;38;SMA;81014;Tidak Bekerja;Small
+100001694;Wanita;Menikah;22;SMA;68165;Tidak Bekerja;Small
+100001695;Wanita;Belum Menikah;30;Unknown;88652;Tidak Bekerja;Small
+100001696;Pria;Belum Menikah;38;SMA;75705;Tidak Bekerja;Small
+100001697;Wanita;Menikah;36;SMA;104189;Amatir;Small
+100001698;Pria;Belum Menikah;41;SMA;71603;Tidak Bekerja;Small
+100001699;Wanita;Menikah;29;SMA;121914;Amatir;Small
+100001700;Wanita;Menikah;31;SMA;106637;Amatir;Small
+100001701;Wanita;Belum Menikah;31;Unknown;99800;Amatir;Small
+100001702;Wanita;Belum Menikah;21;Unknown;67629;Tidak Bekerja;Small
+100001703;Pria;Belum Menikah;32;Unknown;120354;Amatir;Small
+100001704;Wanita;Menikah;35;SMA;122110;Amatir;Small
+100001705;Pria;Belum Menikah;29;Unknown;89170;Tidak Bekerja;Small
+100001706;Wanita;Belum Menikah;34;SMA;109195;Amatir;Small
+100001707;Wanita;Belum Menikah;38;SMA;92392;Tidak Bekerja;Small
+100001708;Wanita;Menikah;33;SMA;43805;Tidak Bekerja;Small
+100001709;Wanita;Menikah;28;SMA;68389;Tidak Bekerja;Small
+100001710;Wanita;Menikah;28;SMA;112521;Amatir;Small
+100001711;Pria;Belum Menikah;21;Unknown;59255;Tidak Bekerja;Small
+100001712;Wanita;Menikah;29;SMA;98612;Tidak Bekerja;Small
+100001713;Wanita;Menikah;26;SMA;70649;Tidak Bekerja;Small
+100001714;Wanita;Belum Menikah;40;SMA;95228;Tidak Bekerja;Small
+100001715;Wanita;Belum Menikah;25;Unknown;46865;Tidak Bekerja;Small
+100001716;Pria;Menikah;20;SMA;101688;Amatir;Small
+100001717;Wanita;Menikah;23;SMA;62618;Tidak Bekerja;Small
+100001718;Wanita;Belum Menikah;27;Unknown;102531;Amatir;Small
+100001719;Wanita;Belum Menikah;36;SMA;100737;Amatir;Small
+100001720;Wanita;Menikah;25;SMA;107321;Amatir;Small
+100001721;Wanita;Menikah;25;SMA;112879;Tidak Bekerja;Small
+100001722;Wanita;Menikah;34;SMA;125372;Tidak Bekerja;Small
+100001723;Wanita;Belum Menikah;24;Unknown;69419;Tidak Bekerja;Small
+100001724;Wanita;Belum Menikah;36;SMA;124759;Amatir;Small
+100001725;Wanita;Belum Menikah;40;SMA;79076;Tidak Bekerja;Small
+100001726;Pria;Belum Menikah;39;SMA;84779;Tidak Bekerja;Small
+100001727;Wanita;Belum Menikah;42;SMA;77393;Tidak Bekerja;Small
+100001728;Pria;Belum Menikah;35;SMA;113187;Tidak Bekerja;Small
+100001729;Wanita;Menikah;27;SMA;99100;Amatir;Small
+100001730;Pria;Belum Menikah;27;Unknown;64954;Tidak Bekerja;Small
+100001731;Wanita;Menikah;23;SMA;103244;Amatir;Small
+100001732;Wanita;Menikah;32;SMA;124975;Amatir;Small
+100001733;Pria;Menikah;28;SMA;133582;Amatir;Small
+100001734;Pria;Belum Menikah;22;Unknown;103519;Amatir;Small
+100001735;Pria;Belum Menikah;31;Unknown;117813;Amatir;Small
+100001736;Wanita;Menikah;22;SMA;119902;Amatir;Small
+100001737;Pria;Belum Menikah;23;Unknown;70783;Tidak Bekerja;Small
+100001738;Wanita;Menikah;35;SMA;125470;Tidak Bekerja;Small
+100001739;Wanita;Menikah;26;SMA;109782;Tidak Bekerja;Small
+100001740;Wanita;Menikah;28;SMA;78322;Tidak Bekerja;Small
+100001741;Pria;Belum Menikah;54;SMA;125517;Amatir;Small
+100001742;Wanita;Belum Menikah;49;SMA;102463;Tidak Bekerja;Small
+100001743;Wanita;Belum Menikah;38;SMA;89309;Tidak Bekerja;Small
+100001744;Wanita;Belum Menikah;47;SMA;110287;Amatir;Small
+100001745;Wanita;Belum Menikah;49;SMA;122391;Tidak Bekerja;Small
+100001746;Wanita;Menikah;30;SMA;116399;Amatir;Small
+100001747;Wanita;Belum Menikah;32;Unknown;81907;Tidak Bekerja;Small
+100001748;Wanita;Menikah;24;SMA;97909;Tidak Bekerja;Small
+100001749;Wanita;Belum Menikah;25;Unknown;68051;Tidak Bekerja;Small
+100001750;Pria;Belum Menikah;33;SMA;82414;Tidak Bekerja;Small
+100001751;Wanita;Menikah;34;SMA;123089;Amatir;Small
+100001752;Wanita;Menikah;24;SMA;66537;Tidak Bekerja;Small
+100001753;Wanita;Belum Menikah;36;SMA;127926;Tidak Bekerja;Small
+100001754;Wanita;Belum Menikah;41;SMA;78963;Tidak Bekerja;Small
+100001755;Pria;Menikah;33;SMA;108694;Amatir;Small
+100001756;Wanita;Menikah;26;SMA;100892;Amatir;Small
+100001757;Wanita;Belum Menikah;36;SMA;119560;Amatir;Small
+100001758;Wanita;Belum Menikah;35;SMA;116176;Tidak Bekerja;Small
+100001759;Pria;Belum Menikah;29;Unknown;111854;Amatir;Small
+100001760;Wanita;Menikah;26;SMA;69831;Tidak Bekerja;Small
+100001761;Pria;Belum Menikah;31;Unknown;69375;Tidak Bekerja;Small
+100001762;Pria;Menikah;26;SMA;71310;Tidak Bekerja;Small
+100001763;Pria;Belum Menikah;47;SMA;73913;Tidak Bekerja;Small
+100001764;Pria;Menikah;20;SMA;95492;Amatir;Small
+100001765;Pria;Belum Menikah;45;SMA;109329;Tidak Bekerja;Small
+100001766;Pria;Belum Menikah;36;SMA;116027;Amatir;Small
+100001767;Pria;Menikah;31;SMA;81987;Tidak Bekerja;Small
+100001768;Wanita;Belum Menikah;41;SMA;83481;Tidak Bekerja;Small
+100001769;Wanita;Belum Menikah;31;Unknown;72361;Tidak Bekerja;Small
+100001770;Wanita;Menikah;27;SMA;106625;Tidak Bekerja;Small
+100001771;Wanita;Menikah;32;SMA;123707;Amatir;Small
+100001772;Wanita;Belum Menikah;43;SMA;79353;Tidak Bekerja;Small
+100001773;Wanita;Belum Menikah;32;Unknown;68347;Tidak Bekerja;Small
+100001774;Wanita;Menikah;29;SMA;115832;Amatir;Small
+100001775;Pria;Belum Menikah;37;SMA;89946;Tidak Bekerja;Small
+100001776;Wanita;Belum Menikah;35;SMA;86319;Tidak Bekerja;Small
+100001777;Wanita;Menikah;23;SMA;70963;Tidak Bekerja;Small
+100001778;Pria;Belum Menikah;40;SMA;106120;Amatir;Small
+100001779;Wanita;Menikah;26;SMA;97856;Amatir;Small
+100001780;Pria;Belum Menikah;28;Unknown;61824;Tidak Bekerja;Small
+100001781;Wanita;Menikah;40;SMA;103907;Amatir;Small
+100001782;Wanita;Menikah;26;SMA;99953;Tidak Bekerja;Small
+100001783;Wanita;Menikah;23;SMA;113413;Amatir;Small
+100001784;Pria;Belum Menikah;26;Unknown;107091;Tidak Bekerja;Small
+100001785;Pria;Belum Menikah;26;Unknown;124783;Amatir;Small
+100001786;Wanita;Belum Menikah;49;SMA;92281;Tidak Bekerja;Small
+100001787;Wanita;Menikah;26;SMA;96219;Amatir;Small
+100001788;Wanita;Belum Menikah;35;SMA;86221;Tidak Bekerja;Small
+100001789;Wanita;Menikah;24;SMA;80962;Tidak Bekerja;Small
+100001790;Wanita;Belum Menikah;46;SMA;78754;Tidak Bekerja;Small
+100001791;Pria;Belum Menikah;26;Unknown;60026;Tidak Bekerja;Small
+100001792;Pria;Belum Menikah;47;SMA;88157;Tidak Bekerja;Small
+100001793;Pria;Belum Menikah;27;Unknown;59881;Tidak Bekerja;Small
+100001794;Pria;Menikah;41;SMA;112818;Amatir;Small
+100001795;Wanita;Menikah;29;SMA;102250;Amatir;Small
+100001796;Wanita;Menikah;28;SMA;38980;Tidak Bekerja;Small
+100001797;Wanita;Menikah;33;SMA;81807;Tidak Bekerja;Small
+100001798;Wanita;Belum Menikah;50;SMA;93148;Tidak Bekerja;Small
+100001799;Wanita;Menikah;32;SMA;108032;Amatir;Small
+100001800;Pria;Menikah;31;SMA;89335;Tidak Bekerja;Small
+100001801;Pria;Belum Menikah;52;SMA;95639;Tidak Bekerja;Small
+100001802;Pria;Belum Menikah;53;SMA;124902;Amatir;Small
+100001803;Wanita;Menikah;34;SMA;87801;Tidak Bekerja;Small
+100001804;Wanita;Menikah;22;SMA;92538;Amatir;Small
+100001805;Pria;Menikah;33;SMA;83687;Tidak Bekerja;Small
+100001806;Pria;Belum Menikah;32;Unknown;128310;Amatir;Small
+100001807;Wanita;Belum Menikah;45;SMA;104754;Tidak Bekerja;Small
+100001808;Pria;Menikah;25;SMA;68222;Tidak Bekerja;Small
+100001809;Wanita;Menikah;41;SMA;97006;Tidak Bekerja;Small
+100001810;Wanita;Belum Menikah;36;SMA;107372;Tidak Bekerja;Small
+100001811;Wanita;Menikah;27;SMA;110511;Amatir;Small
+100001812;Pria;Belum Menikah;40;SMA;72193;Tidak Bekerja;Small
+100001813;Wanita;Belum Menikah;37;SMA;95972;Tidak Bekerja;Small
+100001814;Pria;Belum Menikah;35;SMA;105556;Tidak Bekerja;Small
+100001815;Pria;Belum Menikah;34;SMA;88701;Tidak Bekerja;Small
+100001816;Wanita;Belum Menikah;28;Unknown;117710;Amatir;Small
+100001817;Wanita;Belum Menikah;44;SMA;76057;Tidak Bekerja;Small
+100001818;Pria;Menikah;27;SMA;100392;Amatir;Small
+100001819;Wanita;Belum Menikah;50;SMA;113308;Amatir;Small
+100001820;Wanita;Menikah;18;SMA;100924;Amatir;Small
+100001821;Wanita;Belum Menikah;25;Unknown;72188;Tidak Bekerja;Small
+100001822;Wanita;Menikah;40;SMA;70431;Tidak Bekerja;Small
+100001823;Pria;Menikah;28;SMA;110103;Amatir;Small
+100001824;Wanita;Menikah;23;SMA;60825;Tidak Bekerja;Small
+100001825;Wanita;Menikah;35;SMA;75100;Tidak Bekerja;Small
+100001826;Wanita;Menikah;28;SMA;129327;Amatir;Small
+100001827;Wanita;Belum Menikah;23;Unknown;95541;Amatir;Small
+100001828;Pria;Menikah;34;SMA;112777;Amatir;Small
+100001829;Wanita;Menikah;29;SMA;51496;Tidak Bekerja;Small
+100001830;Wanita;Belum Menikah;35;SMA;102781;Amatir;Small
+100001831;Wanita;Menikah;32;SMA;87494;Tidak Bekerja;Small
+100001832;Wanita;Belum Menikah;46;SMA;72728;Tidak Bekerja;Small
+100001833;Wanita;Menikah;27;SMA;114775;Amatir;Small
+100001834;Wanita;Menikah;25;SMA;124359;Amatir;Small
+100001835;Wanita;Menikah;27;SMA;101620;Tidak Bekerja;Small
+100001836;Wanita;Menikah;24;SMA;87964;Tidak Bekerja;Small
+100001837;Wanita;Belum Menikah;33;Unknown;69523;Tidak Bekerja;Small
+100001838;Wanita;Menikah;24;SMA;109486;Amatir;Small
+100001839;Wanita;Belum Menikah;28;Unknown;77206;Tidak Bekerja;Small
+100001840;Wanita;Belum Menikah;35;SMA;53608;Tidak Bekerja;Small
+100001841;Wanita;Menikah;30;SMA;118677;Amatir;Small
+100001842;Pria;Belum Menikah;43;SMA;116512;Amatir;Small
+100001843;Pria;Menikah;21;SMA;114756;Tidak Bekerja;Small
+100001844;Wanita;Menikah;24;SMA;65852;Tidak Bekerja;Small
+100001845;Pria;Belum Menikah;34;SMA;75626;Tidak Bekerja;Small
+100001846;Wanita;Menikah;26;SMA;127455;Amatir;Small
+100001847;Pria;Belum Menikah;37;SMA;107073;Amatir;Small
+100001848;Wanita;Menikah;32;SMA;82196;Tidak Bekerja;Small
+100001849;Wanita;Menikah;33;SMA;106741;Tidak Bekerja;Small
+100001850;Pria;Menikah;28;SMA;94518;Amatir;Small
+100001851;Wanita;Menikah;30;SMA;114430;Amatir;Small
+100001852;Wanita;Menikah;26;SMA;57165;Tidak Bekerja;Small
+100001853;Wanita;Belum Menikah;25;Unknown;109610;Tidak Bekerja;Small
+100001854;Pria;Belum Menikah;33;Unknown;113619;Amatir;Small
+100001855;Wanita;Menikah;30;SMA;93854;Amatir;Small
+100001856;Wanita;Menikah;26;SMA;129022;Amatir;Small
+100001857;Pria;Menikah;23;SMA;66804;Tidak Bekerja;Small
+100001858;Pria;Menikah;25;SMA;62689;Tidak Bekerja;Small
+100001859;Wanita;Belum Menikah;40;SMA;67619;Tidak Bekerja;Small
+100001860;Pria;Belum Menikah;46;SMA;113495;Tidak Bekerja;Small
+100001861;Wanita;Menikah;43;SMA;48632;Tidak Bekerja;Small
+100001862;Wanita;Menikah;22;SMA;107394;Tidak Bekerja;Small
+100001863;Pria;Menikah;39;SMA;72385;Tidak Bekerja;Small
+100001864;Wanita;Menikah;27;SMA;115934;Tidak Bekerja;Small
+100001865;Pria;Belum Menikah;40;SMA;93183;Tidak Bekerja;Small
+100001866;Pria;Belum Menikah;24;Unknown;63506;Tidak Bekerja;Small
+100001867;Wanita;Belum Menikah;52;SMA;113619;Amatir;Small
+100001868;Wanita;Menikah;30;SMA;121399;Tidak Bekerja;Small
+100001869;Wanita;Menikah;34;SMA;78281;Tidak Bekerja;Small
+100001870;Wanita;Belum Menikah;38;SMA;103926;Amatir;Small
+100001871;Pria;Menikah;39;SMA;89097;Tidak Bekerja;Small
+100001872;Wanita;Belum Menikah;29;Unknown;80852;Tidak Bekerja;Small
+100001873;Pria;Menikah;25;SMA;65207;Tidak Bekerja;Small
+100001874;Wanita;Menikah;35;SMA;93495;Tidak Bekerja;Small
+100001875;Pria;Belum Menikah;53;SMA;121970;Tidak Bekerja;Small
+100001876;Pria;Belum Menikah;26;Unknown;62027;Tidak Bekerja;Small
+100001877;Pria;Belum Menikah;33;SMA;88602;Tidak Bekerja;Small
+100001878;Pria;Menikah;29;SMA;89914;Tidak Bekerja;Small
+100001879;Pria;Belum Menikah;39;SMA;83342;Tidak Bekerja;Small
+100001880;Pria;Belum Menikah;29;Unknown;103439;Amatir;Small
+100001881;Pria;Belum Menikah;26;Unknown;115451;Amatir;Small
+100001882;Pria;Belum Menikah;24;Unknown;68250;Tidak Bekerja;Small
+100001883;Wanita;Menikah;21;SMA;113630;Tidak Bekerja;Small
+100001884;Wanita;Menikah;26;SMA;125880;Amatir;Small
+100001885;Wanita;Menikah;20;SMA;91177;Tidak Bekerja;Small
+100001886;Wanita;Belum Menikah;35;SMA;73266;Tidak Bekerja;Small
+100001887;Wanita;Menikah;24;SMA;69021;Tidak Bekerja;Small
+100001888;Wanita;Belum Menikah;40;SMA;122593;Amatir;Small
+100001889;Wanita;Belum Menikah;44;SMA;122180;Amatir;Small
+100001890;Pria;Belum Menikah;29;Unknown;75160;Tidak Bekerja;Small
+100001891;Wanita;Menikah;39;SMA;81973;Tidak Bekerja;Small
+100001892;Wanita;Menikah;35;SMA;92194;Tidak Bekerja;Small
+100001893;Pria;Belum Menikah;42;SMA;107380;Tidak Bekerja;Small
+100001894;Wanita;Belum Menikah;32;SMA;98023;Amatir;Small
+100001895;Pria;Belum Menikah;48;SMA;94868;Tidak Bekerja;Small
+100001896;Pria;Belum Menikah;26;Unknown;83442;Tidak Bekerja;Small
+100001897;Wanita;Menikah;26;SMA;109887;Amatir;Small
+100001898;Pria;Belum Menikah;42;SMA;98876;Tidak Bekerja;Small
+100001899;Pria;Belum Menikah;48;SMA;94962;Tidak Bekerja;Small
+100001900;Wanita;Menikah;42;SMA;130740;Amatir;Small
+100001901;Wanita;Menikah;27;SMA;94095;Tidak Bekerja;Small
+100001902;Wanita;Menikah;37;SMA;95071;Tidak Bekerja;Small
+100001903;Pria;Belum Menikah;33;Unknown;117308;Amatir;Small
+100001904;Pria;Belum Menikah;33;SMA;112093;Amatir;Small
+100001905;Wanita;Belum Menikah;37;SMA;123893;Amatir;Small
+100001906;Wanita;Menikah;31;SMA;80189;Tidak Bekerja;Small
+100001907;Pria;Belum Menikah;39;SMA;124089;Amatir;Small
+100001908;Wanita;Belum Menikah;40;SMA;82673;Tidak Bekerja;Small
+100001909;Wanita;Menikah;28;SMA;88858;Tidak Bekerja;Small
+100001910;Wanita;Menikah;26;SMA;80540;Tidak Bekerja;Small
+100001911;Wanita;Menikah;24;SMA;84228;Tidak Bekerja;Small
+100001912;Pria;Belum Menikah;40;SMA;103963;Amatir;Small
+100001913;Wanita;Menikah;29;SMA;102397;Amatir;Small
+100001914;Pria;Belum Menikah;43;SMA;111563;Amatir;Small
+100001915;Pria;Belum Menikah;23;Unknown;88260;Tidak Bekerja;Small
+100001916;Wanita;Belum Menikah;34;SMA;114767;Amatir;Small
+100001917;Wanita;Menikah;42;SMA;113275;Amatir;Small
+100001918;Wanita;Menikah;33;SMA;104755;Amatir;Small
+100001919;Wanita;Menikah;32;SMA;120525;Amatir;Small
+100001920;Wanita;Menikah;26;SMA;96082;Tidak Bekerja;Small
+100001921;Wanita;Menikah;23;SMA;87227;Tidak Bekerja;Small
+100001922;Wanita;Menikah;26;SMA;69333;Tidak Bekerja;Small
+100001923;Wanita;Menikah;27;SMA;87777;Tidak Bekerja;Small
+100001924;Pria;Belum Menikah;24;Unknown;70978;Tidak Bekerja;Small
+100001925;Pria;Belum Menikah;27;Unknown;104196;Tidak Bekerja;Small
+100001926;Wanita;Menikah;26;SMA;97551;Amatir;Small
+100001927;Wanita;Belum Menikah;42;SMA;78979;Tidak Bekerja;Small
+100001928;Wanita;Belum Menikah;37;SMA;82500;Tidak Bekerja;Small
+100001929;Wanita;Menikah;26;SMA;86306;Tidak Bekerja;Small
+100001930;Wanita;Menikah;24;SMA;78762;Tidak Bekerja;Small
+100001931;Wanita;Belum Menikah;39;SMA;125543;Amatir;Small
+100001932;Pria;Belum Menikah;26;Unknown;70336;Tidak Bekerja;Small
+100001933;Pria;Menikah;35;SMA;112975;Amatir;Small
+100001934;Pria;Belum Menikah;38;SMA;96681;Tidak Bekerja;Small
+100001935;Wanita;Menikah;24;SMA;98922;Amatir;Small
+100001936;Wanita;Belum Menikah;26;Unknown;109250;Amatir;Small
+100001937;Pria;Belum Menikah;25;Unknown;108960;Tidak Bekerja;Small
+100001938;Pria;Belum Menikah;40;SMA;71302;Tidak Bekerja;Small
+100001939;Wanita;Belum Menikah;48;SMA;107757;Tidak Bekerja;Small
+100001940;Wanita;Menikah;22;SMA;111600;Amatir;Small
+100001941;Wanita;Menikah;25;SMA;102974;Amatir;Small
+100001942;Pria;Menikah;24;SMA;63442;Tidak Bekerja;Small
+100001943;Pria;Belum Menikah;39;SMA;118913;Tidak Bekerja;Small
+100001944;Pria;Belum Menikah;39;SMA;80987;Tidak Bekerja;Small
+100001945;Wanita;Menikah;21;SMA;68790;Tidak Bekerja;Small
+100001946;Wanita;Belum Menikah;27;Unknown;86462;Tidak Bekerja;Small
+100001947;Pria;Belum Menikah;40;SMA;76881;Tidak Bekerja;Small
+100001948;Wanita;Menikah;37;SMA;107409;Amatir;Small
+100001949;Wanita;Belum Menikah;42;SMA;69114;Tidak Bekerja;Small
+100001950;Wanita;Menikah;31;SMA;119167;Amatir;Small
+100001951;Wanita;Menikah;31;SMA;102018;Amatir;Small
+100001952;Pria;Belum Menikah;30;Unknown;97680;Amatir;Small
+100001953;Wanita;Belum Menikah;23;Unknown;65062;Tidak Bekerja;Small
+100001954;Pria;Belum Menikah;33;Unknown;118144;Amatir;Small
+100001955;Wanita;Menikah;37;SMA;124548;Amatir;Small
+100001956;Wanita;Belum Menikah;29;Unknown;85637;Tidak Bekerja;Small
+100001957;Wanita;Belum Menikah;31;SMA;113108;Amatir;Small
+100001958;Pria;Belum Menikah;39;SMA;93554;Tidak Bekerja;Small
+100001959;Wanita;Menikah;33;SMA;42516;Tidak Bekerja;Small
+100001960;Pria;Menikah;26;SMA;72429;Tidak Bekerja;Small
+100001961;Wanita;Menikah;27;SMA;110154;Amatir;Small
+100001962;Wanita;Belum Menikah;20;Unknown;60965;Tidak Bekerja;Small
+100001963;Wanita;Menikah;27;SMA;100618;Tidak Bekerja;Small
+100001964;Wanita;Menikah;26;SMA;71021;Tidak Bekerja;Small
+100001965;Pria;Belum Menikah;40;SMA;94189;Tidak Bekerja;Small
+100001966;Pria;Belum Menikah;24;Unknown;44742;Tidak Bekerja;Small
+100001967;Wanita;Menikah;22;SMA;103201;Amatir;Small
+100001968;Wanita;Menikah;24;SMA;62335;Tidak Bekerja;Small
+100001969;Wanita;Belum Menikah;27;Unknown;103787;Amatir;Small
+100001970;Pria;Belum Menikah;35;SMA;99401;Amatir;Small
+100001971;Pria;Menikah;27;SMA;105197;Amatir;Small
+100001972;Wanita;Menikah;25;SMA;115566;Tidak Bekerja;Small
+100001973;Wanita;Menikah;34;SMA;125843;Tidak Bekerja;Small
+100001974;Wanita;Belum Menikah;24;Unknown;67936;Tidak Bekerja;Small
+100001975;Wanita;Belum Menikah;34;SMA;120863;Amatir;Small
+100001976;Pria;Belum Menikah;42;SMA;77317;Tidak Bekerja;Small
+100001977;Wanita;Belum Menikah;38;SMA;84653;Tidak Bekerja;Small
+100001978;Pria;Belum Menikah;42;SMA;81606;Tidak Bekerja;Small
+100001979;Wanita;Belum Menikah;35;SMA;113380;Tidak Bekerja;Small
+100001980;Wanita;Menikah;27;SMA;100644;Amatir;Small
+100001981;Pria;Belum Menikah;25;Unknown;64037;Tidak Bekerja;Small
+100001982;Wanita;Menikah;23;SMA;101350;Amatir;Small
+100001983;Wanita;Menikah;34;SMA;126334;Amatir;Small
+100001984;Wanita;Menikah;28;SMA;130877;Amatir;Small
+100001985;Pria;Belum Menikah;21;Unknown;103470;Amatir;Small
+100001986;Wanita;Belum Menikah;32;Unknown;114588;Amatir;Small
+100001987;Wanita;Menikah;21;SMA;120682;Amatir;Small
+100001988;Pria;Belum Menikah;25;Unknown;66628;Tidak Bekerja;Small
+100001989;Wanita;Menikah;35;SMA;124447;Tidak Bekerja;Small
+100001990;Wanita;Menikah;25;SMA;106567;Tidak Bekerja;Small
+100001991;Wanita;Menikah;31;SMA;78758;Tidak Bekerja;Small
+100001992;Pria;Belum Menikah;54;SMA;128537;Amatir;Small
+100001993;Wanita;Belum Menikah;51;SMA;101074;Tidak Bekerja;Small
+100001994;Wanita;Belum Menikah;38;SMA;87670;Tidak Bekerja;Small
+100001995;Pria;Belum Menikah;45;SMA;113414;Amatir;Small
+100001996;Wanita;Belum Menikah;47;SMA;123525;Tidak Bekerja;Small
+100001997;Wanita;Menikah;27;SMA;117744;Amatir;Small
+100001998;Pria;Belum Menikah;31;Unknown;86400;Tidak Bekerja;Small
+100001999;Wanita;Menikah;24;SMA;97968;Tidak Bekerja;Small
+100002000;Pria;Belum Menikah;25;Unknown;68416;Tidak Bekerja;Small
